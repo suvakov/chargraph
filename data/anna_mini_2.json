@@ -1,0 +1,1754 @@
+{
+    "characters": [
+        {
+            "names": [
+                "Anna Arkadyevna",
+                "Anna"
+            ],
+            "main_character": true,
+            "id": 1.0,
+            "common_name": "Anna Karenina"
+        },
+        {
+            "names": [
+                "Stepan Arkadyevitch",
+                "Stiva",
+                "Oblonsky"
+            ],
+            "main_character": true,
+            "id": 2.0,
+            "common_name": "Stepan Oblonsky"
+        },
+        {
+            "common_name": "Darya Oblonskaya",
+            "main_character": true,
+            "id": 3.0,
+            "names": [
+                "Darya Alexandrovna",
+                "Dolly"
+            ]
+        },
+        {
+            "common_name": "Alexey Karenin",
+            "main_character": false,
+            "id": 4.0,
+            "names": [
+                "Alexey Alexandrovitch",
+                "Karenin"
+            ]
+        },
+        {
+            "names": [
+                "Count Vronsky",
+                "Alexey Kirillovitch Vronsky",
+                "Vronsky"
+            ],
+            "main_character": true,
+            "id": 5.0,
+            "common_name": "Vronsky"
+        },
+        {
+            "names": [
+                "Konstantin Dmitrievitch Levin",
+                "Levin"
+            ],
+            "main_character": true,
+            "id": 6.0,
+            "common_name": "Levin"
+        },
+        {
+            "names": [
+                "Princess Shtcherbatskaya",
+                "Kitty"
+            ],
+            "main_character": true,
+            "id": 7.0,
+            "common_name": "Kitty Shtcherbatskaya"
+        },
+        {
+            "names": [
+                "Matvey"
+            ],
+            "main_character": false,
+            "id": 8.0,
+            "common_name": "Matvey"
+        },
+        {
+            "common_name": "Matrona Philimonovna",
+            "main_character": false,
+            "id": 9.0,
+            "names": [
+                "Matrona Philimonovna",
+                "nurse"
+            ]
+        },
+        {
+            "common_name": "Mlle. Roland",
+            "main_character": false,
+            "id": 10.0,
+            "names": [
+                "Mlle. Roland"
+            ]
+        },
+        {
+            "common_name": "Alabin",
+            "main_character": false,
+            "id": 11.0,
+            "names": [
+                "Alabin"
+            ]
+        },
+        {
+            "common_name": "Grisha Oblonsky",
+            "main_character": false,
+            "id": 12.0,
+            "names": [
+                "Grisha"
+            ]
+        },
+        {
+            "names": [
+                "Tanya"
+            ],
+            "main_character": false,
+            "id": 13.0,
+            "common_name": "Tanya Oblonskaya"
+        },
+        {
+            "common_name": "Miss Hoole",
+            "main_character": false,
+            "id": 14.0,
+            "names": [
+                "Miss Hoole"
+            ]
+        },
+        {
+            "common_name": "Kalinin",
+            "main_character": false,
+            "id": 15.0,
+            "names": [
+                "staff captain Kalinin",
+                "Kalinin's widow"
+            ]
+        },
+        {
+            "common_name": "Count Beist",
+            "main_character": false,
+            "id": 16.0,
+            "names": [
+                "Count Beist"
+            ]
+        },
+        {
+            "common_name": "German watchmaker",
+            "main_character": false,
+            "id": 17.0,
+            "names": [
+                "German watchmaker"
+            ]
+        },
+        {
+            "common_name": "Nikitin",
+            "main_character": false,
+            "id": 18.0,
+            "names": [
+                "Nikitin",
+                "Philip Ivanitch Nikitin"
+            ]
+        },
+        {
+            "names": [
+                "Grinevitch",
+                "Mihail Stanislavitch Grinevitch"
+            ],
+            "main_character": false,
+            "id": 19.0,
+            "common_name": "Grinevitch"
+        },
+        {
+            "names": [
+                "Fomin"
+            ],
+            "main_character": false,
+            "id": 20.0,
+            "common_name": "Fomin"
+        },
+        {
+            "names": [
+                "Sergey Ivanovitch Koznishev",
+                "Koznishev",
+                "Sergey Ivanovitch"
+            ],
+            "main_character": false,
+            "id": 21.0,
+            "common_name": "Sergey Koznishev"
+        },
+        {
+            "common_name": "Nikolay Levin",
+            "main_character": false,
+            "id": 22.0,
+            "names": [
+                "Nikolay Levin",
+                "brother Nikolay"
+            ]
+        },
+        {
+            "names": [
+                "Marya Nikolaevna",
+                "Masha"
+            ],
+            "main_character": false,
+            "id": 23.0,
+            "common_name": "Marya Nikolaevna"
+        },
+        {
+            "common_name": "Shtcherbatsky",
+            "main_character": false,
+            "id": 24.0,
+            "names": [
+                "Prince Shtcherbatsky",
+                "old prince"
+            ]
+        },
+        {
+            "common_name": "Natalia Lvova",
+            "main_character": false,
+            "id": 25.0,
+            "names": [
+                "Natalia",
+                "Natalia Lvova"
+            ]
+        },
+        {
+            "names": [
+                "Lvov"
+            ],
+            "main_character": false,
+            "id": 26.0,
+            "common_name": "Lvov"
+        },
+        {
+            "names": [
+                "Mademoiselle Linon"
+            ],
+            "main_character": false,
+            "id": 27.0,
+            "common_name": "Mademoiselle Linon"
+        },
+        {
+            "names": [
+                "Gurin"
+            ],
+            "main_character": false,
+            "id": 28.0,
+            "common_name": "Gurin"
+        },
+        {
+            "common_name": "Bentham",
+            "main_character": false,
+            "id": 29.0,
+            "names": [
+                "Bentham"
+            ]
+        },
+        {
+            "names": [
+                "Mill"
+            ],
+            "main_character": false,
+            "id": 30.0,
+            "common_name": "Mill"
+        },
+        {
+            "names": [
+                "Rurik"
+            ],
+            "main_character": false,
+            "id": 31.0,
+            "common_name": "Rurik"
+        },
+        {
+            "common_name": "Monkey",
+            "main_character": false,
+            "id": 32.0,
+            "names": [
+                "monkey"
+            ]
+        },
+        {
+            "names": [
+                "Sergey Koznishev"
+            ],
+            "main_character": false,
+            "id": 33.0,
+            "common_name": "Koznishev"
+        },
+        {
+            "names": [
+                "Keiss"
+            ],
+            "main_character": false,
+            "id": 34.0,
+            "common_name": "Keiss"
+        },
+        {
+            "names": [
+                "Wurt"
+            ],
+            "main_character": false,
+            "id": 35.0,
+            "common_name": "Wurt"
+        },
+        {
+            "common_name": "Knaust",
+            "main_character": false,
+            "id": 36.0,
+            "names": [
+                "Knaust"
+            ]
+        },
+        {
+            "names": [
+                "Pripasov"
+            ],
+            "main_character": false,
+            "id": 37.0,
+            "common_name": "Pripasov"
+        },
+        {
+            "common_name": "Shtcherbatsky cousin",
+            "main_character": false,
+            "id": 38.0,
+            "names": [
+                "Nikolay Shtcherbatsky",
+                "Kitty's cousin"
+            ]
+        },
+        {
+            "common_name": "Countess Nordston",
+            "main_character": false,
+            "id": 39.0,
+            "names": [
+                "Countess Nordston"
+            ]
+        },
+        {
+            "common_name": "Zahar Nikititch",
+            "main_character": false,
+            "id": 40.0,
+            "names": [
+                "Zahar Nikititch"
+            ]
+        },
+        {
+            "common_name": "Philip Ivanitch",
+            "main_character": false,
+            "id": 41.0,
+            "names": [
+                "Philip Ivanitch Nikitin"
+            ]
+        },
+        {
+            "common_name": "Alexey Vronsky",
+            "main_character": false,
+            "id": 42.0,
+            "names": [
+                "Alexey Vronsky"
+            ]
+        },
+        {
+            "common_name": "Seryozha Karenin",
+            "main_character": false,
+            "id": 43.0,
+            "names": [
+                "Seryozha",
+                "son"
+            ]
+        },
+        {
+            "common_name": "Mademoiselle Linon",
+            "main_character": false,
+            "id": 44.0,
+            "names": [
+                "Mlle. Linon"
+            ]
+        },
+        {
+            "names": [
+                "Countess Bonina"
+            ],
+            "main_character": false,
+            "id": 45.0,
+            "common_name": "Countess Bonina"
+        },
+        {
+            "common_name": "German",
+            "main_character": false,
+            "id": 46.0,
+            "names": [
+                "German"
+            ]
+        },
+        {
+            "common_name": "Prokofy",
+            "main_character": false,
+            "id": 47.0,
+            "names": [
+                "Prokofy"
+            ]
+        },
+        {
+            "names": [
+                "Trubin"
+            ],
+            "main_character": false,
+            "id": 48.0,
+            "common_name": "Trubin"
+        },
+        {
+            "names": [
+                "professor of philosophy"
+            ],
+            "main_character": false,
+            "id": 49.0,
+            "common_name": "Professor of philosophy"
+        },
+        {
+            "common_name": "Nikolay Shtcherbatsky",
+            "main_character": false,
+            "id": 50.0,
+            "names": [
+                "Nikolay Shtcherbatsky"
+            ]
+        },
+        {
+            "common_name": "Golenishtchev",
+            "main_character": false,
+            "id": 51.0,
+            "names": [
+                "Golenishtchev"
+            ]
+        },
+        {
+            "names": [
+                "staff captain Kalinin"
+            ],
+            "main_character": false,
+            "id": 52.0,
+            "common_name": "Staff captain Kalinin"
+        },
+        {
+            "common_name": "Count Kirill Ivanovitch Vronsky",
+            "main_character": false,
+            "id": 53.0,
+            "names": [
+                "Count Kirill Ivanovitch Vronsky"
+            ]
+        },
+        {
+            "common_name": "Mihailov",
+            "main_character": false,
+            "id": 54.0,
+            "names": [
+                "Mihailov"
+            ]
+        },
+        {
+            "names": [
+                "Zahar Nikititch"
+            ],
+            "main_character": false,
+            "id": 55.0,
+            "common_name": "Zahar Nikititch"
+        },
+        {
+            "names": [
+                "Zahar Nikititch"
+            ],
+            "main_character": false,
+            "id": 56.0,
+            "common_name": "Zahar Nikititch"
+        },
+        {
+            "common_name": "Zahar Nikititch",
+            "main_character": false,
+            "id": 57.0,
+            "names": [
+                "Zahar Nikititch"
+            ]
+        },
+        {
+            "common_name": "Petritsky",
+            "main_character": false,
+            "id": 58.0,
+            "names": [
+                "Petritsky"
+            ]
+        },
+        {
+            "names": [
+                "Baroness Shilton"
+            ],
+            "main_character": false,
+            "id": 59.0,
+            "common_name": "Baroness Shilton"
+        },
+        {
+            "names": [
+                "Kamerjunker Grinevitch",
+                "Kamerovsky"
+            ],
+            "main_character": false,
+            "id": 60.0,
+            "common_name": "Kamerovsky"
+        },
+        {
+            "names": [
+                "Nikolay Shtcherbatsky"
+            ],
+            "main_character": false,
+            "id": 61.0,
+            "common_name": "Nikolay Shtcherbatsky"
+        },
+        {
+            "names": [
+                "professor of philosophy"
+            ],
+            "main_character": false,
+            "id": 62.0,
+            "common_name": "Professor of philosophy"
+        },
+        {
+            "common_name": "Prokofy",
+            "main_character": false,
+            "id": 63.0,
+            "names": [
+                "Prokofy"
+            ]
+        },
+        {
+            "common_name": "Widow of staff captain Kalinin",
+            "main_character": false,
+            "id": 64.0,
+            "names": [
+                "staff captain Kalinin",
+                "Kalinin's widow"
+            ]
+        },
+        {
+            "names": [
+                "Ignatov"
+            ],
+            "main_character": false,
+            "id": 65.0,
+            "common_name": "Ignatov"
+        },
+        {
+            "names": [
+                "the barber"
+            ],
+            "main_character": false,
+            "id": 66.0,
+            "common_name": "The barber"
+        },
+        {
+            "common_name": "Zahar Nikititch",
+            "main_character": false,
+            "id": 67.0,
+            "names": [
+                "Zahar Nikititch"
+            ]
+        },
+        {
+            "names": [
+                "Zahar Nikititch"
+            ],
+            "main_character": false,
+            "id": 68.0,
+            "common_name": "Zahar Nikititch"
+        },
+        {
+            "names": [
+                "coachman"
+            ],
+            "main_character": false,
+            "id": 69.0,
+            "common_name": "Coachman"
+        },
+        {
+            "names": [
+                "Prince Golistin"
+            ],
+            "main_character": false,
+            "id": 70.0,
+            "common_name": "Prince Golistin"
+        },
+        {
+            "common_name": "Zahar Nikititch",
+            "main_character": false,
+            "id": 71.0,
+            "names": [
+                "Zahar Nikititch"
+            ]
+        },
+        {
+            "common_name": "Grisha",
+            "main_character": false,
+            "id": 72.0,
+            "names": [
+                "Grisha Oblonsky",
+                "Grisha"
+            ]
+        },
+        {
+            "common_name": "Cachet blanc",
+            "main_character": false,
+            "id": 73.0,
+            "names": [
+                "white seal",
+                "Cachet blanc"
+            ]
+        },
+        {
+            "names": [
+                "Penza"
+            ],
+            "main_character": false,
+            "id": 74.0,
+            "common_name": "Penza"
+        },
+        {
+            "names": [
+                "Tsar"
+            ],
+            "main_character": false,
+            "id": 75.0,
+            "common_name": "Tsar"
+        },
+        {
+            "common_name": "Darmstadt",
+            "main_character": false,
+            "id": 76.0,
+            "names": [
+                "Darmstadt"
+            ]
+        },
+        {
+            "names": [
+                "Brenteln"
+            ],
+            "main_character": false,
+            "id": 77.0,
+            "common_name": "Brenteln"
+        },
+        {
+            "common_name": "Shahovskaya",
+            "main_character": false,
+            "id": 78.0,
+            "names": [
+                "Princess Shahovskaya"
+            ]
+        },
+        {
+            "names": [
+                "Princess Varya Tchirkova"
+            ],
+            "main_character": false,
+            "id": 79.0,
+            "common_name": "Tchirkova"
+        },
+        {
+            "names": [
+                "Zhivahov"
+            ],
+            "main_character": false,
+            "id": 80.0,
+            "common_name": "Zhivahov"
+        },
+        {
+            "common_name": "Krivtsov",
+            "main_character": false,
+            "id": 81.0,
+            "names": [
+                "Count Krivtsov"
+            ]
+        },
+        {
+            "names": [
+                "Petrovsky"
+            ],
+            "main_character": false,
+            "id": 82.0,
+            "common_name": "Petrovsky"
+        },
+        {
+            "common_name": "Pyotr Oblonsky",
+            "main_character": false,
+            "id": 83.0,
+            "names": [
+                "Pyotr Oblonsky"
+            ]
+        },
+        {
+            "names": [
+                "Bryansky"
+            ],
+            "main_character": false,
+            "id": 84.0,
+            "common_name": "Bryansky"
+        },
+        {
+            "common_name": "Countess Vronskaya",
+            "main_character": false,
+            "id": 85.0,
+            "names": [
+                "Countess Vronskaya"
+            ]
+        },
+        {
+            "names": [
+                "Zahar Nikititch"
+            ],
+            "main_character": false,
+            "id": 86.0,
+            "common_name": "Zahar Nikititch"
+        },
+        {
+            "common_name": "cachet blanc",
+            "main_character": false,
+            "id": 87.0,
+            "names": [
+                "cachet blanc"
+            ]
+        },
+        {
+            "common_name": "Zahar Nikititch",
+            "main_character": false,
+            "id": 88.0,
+            "names": [
+                "Zahar Nikititch"
+            ]
+        },
+        {
+            "names": [
+                "Gagin"
+            ],
+            "main_character": false,
+            "id": 89.0,
+            "common_name": "Gagin"
+        },
+        {
+            "common_name": "Laura",
+            "main_character": false,
+            "id": 90.0,
+            "names": [
+                "Laura"
+            ]
+        },
+        {
+            "names": [
+                "Fertinghof"
+            ],
+            "main_character": false,
+            "id": 91.0,
+            "common_name": "Fertinghof"
+        },
+        {
+            "common_name": "Mileev",
+            "main_character": false,
+            "id": 92.0,
+            "names": [
+                "Mileev"
+            ]
+        },
+        {
+            "names": [
+                "Prince Kedrov"
+            ],
+            "main_character": false,
+            "id": 93.0,
+            "common_name": "Prince Kedrov"
+        },
+        {
+            "names": [
+                "Lidi"
+            ],
+            "main_character": false,
+            "id": 94.0,
+            "common_name": "Lidi"
+        },
+        {
+            "names": [
+                "Princess Shahovskaya"
+            ],
+            "main_character": false,
+            "id": 95.0,
+            "common_name": "Princess Shahovskaya"
+        },
+        {
+            "names": [
+                "Pripasov"
+            ],
+            "main_character": false,
+            "id": 96.0,
+            "common_name": "Pripasov"
+        },
+        {
+            "names": [
+                "Wurt"
+            ],
+            "main_character": false,
+            "id": 97.0,
+            "common_name": "Wurt"
+        },
+        {
+            "common_name": "Knaust",
+            "main_character": false,
+            "id": 98.0,
+            "names": [
+                "Knaust"
+            ]
+        },
+        {
+            "names": [
+                "Keiss"
+            ],
+            "main_character": false,
+            "id": 99.0,
+            "common_name": "Keiss"
+        },
+        {
+            "names": [
+                "Zahar Nikititch"
+            ],
+            "main_character": false,
+            "id": 100.0,
+            "common_name": "Zahar Nikititch"
+        },
+        {
+            "common_name": "Cachet blanc",
+            "main_character": false,
+            "id": 101.0,
+            "names": [
+                "Cachet blanc"
+            ]
+        },
+        {
+            "common_name": "Il mio tesoro",
+            "main_character": false,
+            "id": 102.0,
+            "names": [
+                "Il mio tesoro"
+            ]
+        },
+        {
+            "common_name": "Cachet blanc",
+            "main_character": false,
+            "id": 103.0,
+            "names": [
+                "Cachet blanc"
+            ]
+        },
+        {
+            "names": [
+                "Vyazemsky"
+            ],
+            "main_character": false,
+            "id": 104.0,
+            "common_name": "Vyazemsky"
+        }
+    ],
+    "relations": [
+        {
+            "relation": [
+                "husband",
+                "unfaithful"
+            ],
+            "id1": 1.0,
+            "id2": 2.0,
+            "positivity": -0.8,
+            "weight": 8.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "sister-in-law"
+            ],
+            "id2": 3.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "lovers"
+            ],
+            "id2": 5.0,
+            "positivity": 0.9,
+            "weight": 10.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "wife",
+                "husband"
+            ],
+            "id2": 4.0,
+            "positivity": -1.0,
+            "weight": 10.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "mother",
+                "son"
+            ],
+            "id2": 43.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "husband",
+                "wife"
+            ],
+            "id2": 3.0,
+            "positivity": 0.5,
+            "weight": 9.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "brother",
+                "sister"
+            ],
+            "id2": 1.0,
+            "positivity": -0.8,
+            "weight": 8.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "brother-in-law",
+                "sister-in-law"
+            ],
+            "id2": 7.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 5.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "friends"
+            ],
+            "id2": 6.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "sisters"
+            ],
+            "id2": 7.0,
+            "positivity": 0.8,
+            "weight": 9.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "ally"
+            ],
+            "id2": 9.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 3.0,
+            "id2": 6.0,
+            "positivity": 0.5,
+            "weight": 6.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "husband",
+                "wife"
+            ],
+            "id2": 1.0,
+            "positivity": -1.0,
+            "weight": 10.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "rivals"
+            ],
+            "id2": 5.0,
+            "positivity": -1.0,
+            "weight": 6.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "brother-in-law"
+            ],
+            "id2": 2.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "father",
+                "son"
+            ],
+            "id1": 4.0,
+            "id2": 43.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "id1": 5.0,
+            "relation": [
+                "lovers"
+            ],
+            "id2": 1.0,
+            "positivity": 0.9,
+            "weight": 10.0
+        },
+        {
+            "id1": 5.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 2.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "potential lovers"
+            ],
+            "id1": 5.0,
+            "id2": 7.0,
+            "positivity": 0.6,
+            "weight": 5.0
+        },
+        {
+            "id1": 5.0,
+            "relation": [
+                "brothers"
+            ],
+            "id2": 42.0,
+            "positivity": 0.2,
+            "weight": 6.0
+        },
+        {
+            "id1": 5.0,
+            "relation": [
+                "colleague"
+            ],
+            "id2": 19.0,
+            "positivity": 0.6,
+            "weight": 5.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "potential lovers"
+            ],
+            "id2": 7.0,
+            "positivity": 1.0,
+            "weight": 10.0
+        },
+        {
+            "relation": [
+                "friends"
+            ],
+            "id1": 6.0,
+            "id2": 2.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "brothers"
+            ],
+            "id1": 6.0,
+            "id2": 21.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 6.0,
+            "id2": 38.0,
+            "positivity": 0.3,
+            "weight": 4.0
+        },
+        {
+            "id1": 7.0,
+            "relation": [
+                "potential lovers"
+            ],
+            "id2": 1.0,
+            "positivity": 0.6,
+            "weight": 5.0
+        },
+        {
+            "id1": 7.0,
+            "relation": [
+                "potential lovers"
+            ],
+            "id2": 6.0,
+            "positivity": 1.0,
+            "weight": 10.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 7.0,
+            "id2": 24.0,
+            "positivity": 0.8,
+            "weight": 9.0
+        },
+        {
+            "id1": 7.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 39.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "servant",
+                "master"
+            ],
+            "id1": 8.0,
+            "id2": 2.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "id1": 9.0,
+            "relation": [
+                "servant",
+                "mistress"
+            ],
+            "id2": 3.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 11.0,
+            "id2": 2.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 17.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 2.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "colleagues"
+            ],
+            "id1": 18.0,
+            "id2": 2.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "colleagues"
+            ],
+            "id1": 19.0,
+            "id2": 2.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "brothers"
+            ],
+            "id1": 21.0,
+            "id2": 6.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "id1": 21.0,
+            "relation": [
+                "colleagues"
+            ],
+            "id2": 49.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 32.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 2.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 24.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 7.0,
+            "positivity": 0.8,
+            "weight": 9.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 25.0,
+            "id2": 7.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 26.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 6.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "antagonists"
+            ],
+            "id1": 39.0,
+            "id2": 6.0,
+            "positivity": -0.3,
+            "weight": 5.0
+        },
+        {
+            "id1": 14.0,
+            "relation": [
+                "student",
+                "teacher"
+            ],
+            "id2": 7.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "colleagues"
+            ],
+            "id1": 40.0,
+            "id2": 2.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 41.0,
+            "relation": [
+                "colleagues"
+            ],
+            "id2": 2.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 42.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 53.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 42.0,
+            "id2": 2.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 43.0,
+            "relation": [
+                "son",
+                "mother"
+            ],
+            "id2": 1.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "cousin"
+            ],
+            "id1": 50.0,
+            "id2": 7.0,
+            "positivity": 0.6,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "colleagues"
+            ],
+            "id1": 45.0,
+            "id2": 2.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 22.0,
+            "relation": [
+                "brothers"
+            ],
+            "id2": 21.0,
+            "positivity": -0.3,
+            "weight": 3.0
+        },
+        {
+            "id1": 22.0,
+            "relation": [
+                "brothers"
+            ],
+            "id2": 6.0,
+            "positivity": -0.3,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "comrades"
+            ],
+            "id1": 23.0,
+            "id2": 22.0,
+            "positivity": 0.4,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 46.0,
+            "id2": 2.0,
+            "positivity": 0.2,
+            "weight": 1.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "master",
+                "servant"
+            ],
+            "id2": 8.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "id1": 7.0,
+            "relation": [
+                "student",
+                "teacher"
+            ],
+            "id2": 14.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 10.0,
+            "positivity": 0.8,
+            "weight": 4.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 10.0,
+            "positivity": 0.7,
+            "weight": 3.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 11.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 2.0,
+            "id2": 17.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "colleagues"
+            ],
+            "id1": 2.0,
+            "id2": 18.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "colleagues"
+            ],
+            "id2": 19.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "colleagues"
+            ],
+            "id2": 40.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "colleagues"
+            ],
+            "id2": 41.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "colleagues"
+            ],
+            "id1": 2.0,
+            "id2": 45.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 2.0,
+            "id2": 46.0,
+            "positivity": 0.2,
+            "weight": 1.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 32.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "brothers"
+            ],
+            "id1": 5.0,
+            "id2": 42.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 5.0,
+            "id2": 53.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 6.0,
+            "id2": 26.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 7.0,
+            "id2": 25.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 7.0,
+            "relation": [
+                "cousin"
+            ],
+            "id2": 38.0,
+            "positivity": 0.6,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "student",
+                "teacher"
+            ],
+            "id1": 7.0,
+            "id2": 14.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "id1": 7.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 39.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "cousin"
+            ],
+            "id1": 7.0,
+            "id2": 50.0,
+            "positivity": 0.6,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "brothers"
+            ],
+            "id1": 21.0,
+            "id2": 22.0,
+            "positivity": -0.3,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "comrades"
+            ],
+            "id1": 22.0,
+            "id2": 23.0,
+            "positivity": 0.4,
+            "weight": 5.0
+        },
+        {
+            "id1": 22.0,
+            "relation": [
+                "brothers"
+            ],
+            "id2": 6.0,
+            "positivity": -0.3,
+            "weight": 3.0
+        },
+        {
+            "id1": 43.0,
+            "relation": [
+                "son",
+                "father"
+            ],
+            "id2": 4.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "id1": 43.0,
+            "relation": [
+                "son",
+                "mother"
+            ],
+            "id2": 1.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 25.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 6.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "id1": 14.0,
+            "relation": [
+                "student",
+                "teacher"
+            ],
+            "id2": 7.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 32.0,
+            "id2": 1.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 70.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 4.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 77.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 78.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 7.0,
+            "id2": 43.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 42.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 2.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 64.0,
+            "id2": 15.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "same"
+            ],
+            "id1": 15.0,
+            "id2": 52.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 50.0,
+            "relation": [
+                "same"
+            ],
+            "id2": 61.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 55.0,
+            "relation": [
+                "same"
+            ],
+            "id2": 56.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "same"
+            ],
+            "id1": 55.0,
+            "id2": 57.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 67.0,
+            "relation": [
+                "same"
+            ],
+            "id2": 68.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 6.0,
+            "id2": 25.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 24.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "id1": 5.0,
+            "relation": [
+                "lovers"
+            ],
+            "id2": 7.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        }
+    ]
+}

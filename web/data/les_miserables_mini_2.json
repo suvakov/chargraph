@@ -1,0 +1,1095 @@
+{
+    "characters": [
+        {
+            "common_name": "M. Charles-François-Bienvenu Myriel",
+            "main_character": true,
+            "id": 1.0,
+            "names": [
+                "M. Myriel",
+                "Charles Myriel",
+                "M. Charles-François-Bienvenu Myriel",
+                "Monseigneur Bienvenu",
+                "Monseigneur Welcome",
+                "the Bishop",
+                "the Curé of B\n\n\n\n\n—\n\n\n\n\n [Brignolles]"
+            ]
+        },
+        {
+            "common_name": "Mademoiselle Baptistine",
+            "main_character": false,
+            "id": 2.0,
+            "names": [
+                "Mademoiselle Baptistine",
+                "his sister",
+                "an elderly spinster",
+                "this holy woman"
+            ]
+        },
+        {
+            "names": [
+                "Madame Magloire",
+                "the servant",
+                "the female servant",
+                "the old servant",
+                "maid to Mademoiselle",
+                "housekeeper to Monseigneur"
+            ],
+            "main_character": false,
+            "id": 3.0,
+            "common_name": "Madame Magloire"
+        },
+        {
+            "common_name": "M. le Cardinal Fesch",
+            "main_character": false,
+            "id": 4.0,
+            "names": [
+                "M. le Cardinal Fesch",
+                "the Cardinal",
+                "his uncle"
+            ]
+        },
+        {
+            "common_name": "Napoleon",
+            "main_character": false,
+            "id": 5.0,
+            "names": [
+                "Napoleon",
+                "the Emperor",
+                "His Majesty",
+                "Sire",
+                "the Emperor Napoleon",
+                "Napoleon, on finding himself observed",
+                "the great man",
+                "M. the Emperor"
+            ]
+        },
+        {
+            "common_name": "M. Henri Puget",
+            "main_character": false,
+            "id": 6.0,
+            "names": [
+                "M. Henri Puget",
+                "Abb\n\n\n\n\ne of Simore",
+                "Bishop of D\n\n\n\n\n\n\n\n\n\n—\n\n\n\n\n—"
+            ]
+        },
+        {
+            "common_name": "Charles Br\n\n\n\n\nblart de Genlis",
+            "main_character": false,
+            "id": 7.0,
+            "names": [
+                "Charles Br\n\n\n\n\nblart de Genlis",
+                "archbishop"
+            ]
+        },
+        {
+            "common_name": "Prince d\n\n\n\n\nEmbrun",
+            "main_character": false,
+            "id": 8.0,
+            "names": [
+                "Prince d\n\n\n\n\nEmbrun"
+            ]
+        },
+        {
+            "names": [
+                "Antoine de Mesgrigny",
+                "Bishop of Grasse",
+                "the capuchin, Bishop of Grasse"
+            ],
+            "main_character": false,
+            "id": 9.0,
+            "common_name": "Antoine de Mesgrigny"
+        },
+        {
+            "common_name": "Philippe de Vend\n\n\n\n\nme",
+            "main_character": false,
+            "id": 10.0,
+            "names": [
+                "Philippe de Vend\n\n\n\n\nme",
+                "Grand Prior of France",
+                "Abb\n\n\n\n\ne of Saint Honor\n\n\n\ne de L\n\n\n\n\nérins"
+            ]
+        },
+        {
+            "common_name": "Fran\n\n\n\n\ncois de Berton de Crillon",
+            "main_character": false,
+            "id": 11.0,
+            "names": [
+                "Fran\n\n\n\n\ncois de Berton de Crillon",
+                "Baron de Vence",
+                "bishop"
+            ]
+        },
+        {
+            "common_name": "C\n\n\n\n\n\n\n\n\n\nesar de Sabran de Forcalquier",
+            "main_character": false,
+            "id": 12.0,
+            "names": [
+                "C\n\n\n\n\n\n\n\n\n\nesar de Sabran de Forcalquier",
+                "Seignor of Gland\n\n\n\n\neve",
+                "bishop"
+            ]
+        },
+        {
+            "names": [
+                "Jean Soanen",
+                "Priest of the Oratory",
+                "preacher in ordinary to the king",
+                "Seignor of Senez",
+                "bishop"
+            ],
+            "main_character": false,
+            "id": 13.0,
+            "common_name": "Jean Soanen"
+        },
+        {
+            "names": [
+                "Monsieur the director of the hospital",
+                "the director"
+            ],
+            "main_character": false,
+            "id": 14.0,
+            "common_name": "the director of the hospital"
+        },
+        {
+            "common_name": "M. Bigot de Pr\n\n\n\n\n\n\n\n\néameneu",
+            "main_character": false,
+            "id": 15.0,
+            "names": [
+                "M. Bigot de Pr\n\n\n\n\n\n\n\n\néameneu",
+                "the minister of public worship"
+            ]
+        },
+        {
+            "common_name": "a senator of the Empire",
+            "main_character": false,
+            "id": 16.0,
+            "names": [
+                "a senator of the Empire",
+                "Count***"
+            ]
+        },
+        {
+            "common_name": "Madame la Comtesse de L\n\n\n\n\n\n\n\n\nf4",
+            "main_character": false,
+            "id": 17.0,
+            "names": [
+                "Madame la Comtesse de L\n\n\n\n\n\n\n\n\nf4",
+                "Madame de L\n\n\n\n\n\n\n\n\nf4"
+            ]
+        },
+        {
+            "common_name": "St. Augustine",
+            "main_character": false,
+            "id": 18.0,
+            "names": [
+                "St. Augustine"
+            ]
+        },
+        {
+            "common_name": "M. G\n\n\n\n\n\n\n\n\néborand",
+            "main_character": false,
+            "id": 19.0,
+            "names": [
+                "M. G\n\n\n\n\n\n\n\n\néborand",
+                "a wealthy retired merchant"
+            ]
+        },
+        {
+            "names": [
+                "the Marquis de Champtercier",
+                "M. le Marquis"
+            ],
+            "main_character": false,
+            "id": 20.0,
+            "common_name": "the Marquis de Champtercier"
+        },
+        {
+            "names": [
+                "Jesus Christ",
+                "Christ"
+            ],
+            "main_character": false,
+            "id": 21.0,
+            "common_name": "Jesus Christ"
+        },
+        {
+            "names": [
+                "Your Grace",
+                "Votre Grandeur"
+            ],
+            "main_character": false,
+            "id": 22.0,
+            "common_name": "Madame Magloire"
+        },
+        {
+            "names": [
+                "Abb\n\n\n\n\ne of Chaliot",
+                "bishop of Saint Claude"
+            ],
+            "main_character": false,
+            "id": 23.0,
+            "common_name": "Abb\n\n\n\n\ne of Chaliot"
+        },
+        {
+            "common_name": "Abb\n\n\n\n\ne Tourteau",
+            "main_character": false,
+            "id": 24.0,
+            "names": [
+                "Abb\n\n\n\n\ne Tourteau",
+                "vicar-general of Agde",
+                "abb\n\n\n\n\ne of Grand-Champ",
+                "order of C\n\n\n\n\neaux",
+                "diocese of Chartres"
+            ]
+        },
+        {
+            "common_name": "Cravatte",
+            "main_character": false,
+            "id": 25.0,
+            "names": [
+                "Cravatte",
+                "one of his lieutenants"
+            ]
+        },
+        {
+            "common_name": "Gaspard B\n\n\n\n\n\n\n\n\nès",
+            "main_character": false,
+            "id": 26.0,
+            "names": [
+                "Gaspard B\n\n\n\n\n\n\n\n\nès"
+            ]
+        },
+        {
+            "common_name": "a youthful vicar",
+            "main_character": false,
+            "id": 27.0,
+            "names": [
+                "a youthful vicar"
+            ]
+        },
+        {
+            "common_name": "M. G\n\n\n\n\n\n\n\n—\n\n\n\n\n—",
+            "main_character": false,
+            "id": 28.0,
+            "names": [
+                "G\n\n\n\n\n\n\n\n—\n\n\n\n\n—",
+                "a former member of the Convention",
+                "the old member of the Convention",
+                "the member of the Convention"
+            ]
+        },
+        {
+            "common_name": "a young shepherd",
+            "main_character": false,
+            "id": 29.0,
+            "names": [
+                "a young shepherd",
+                "the shepherd lad"
+            ]
+        },
+        {
+            "names": [
+                "a gentleman of the country-side"
+            ],
+            "main_character": false,
+            "id": 30.0,
+            "common_name": "a gentleman of the country-side"
+        },
+        {
+            "common_name": "a man who was condemned to death",
+            "main_character": false,
+            "id": 31.0,
+            "names": [
+                "a man who was condemned to death",
+                "a wretched fellow",
+                "a mountebank"
+            ]
+        },
+        {
+            "common_name": "the chaplain of the prison",
+            "main_character": false,
+            "id": 32.0,
+            "names": [
+                "the chaplain of the prison",
+                "a priest"
+            ]
+        },
+        {
+            "common_name": "a worthy cur\n\n\n\n\n\n\n\n\n\né",
+            "main_character": false,
+            "id": 33.0,
+            "names": [
+                "a worthy cur\n\n\n\n\n\n\n\n\n\né",
+                "the cur\n\n\n\n\n\n\n\n\n\né of Couloubroux",
+                "the cur\n\n\n\n\n\n\n\n\n\né of Pompierry"
+            ]
+        },
+        {
+            "common_name": "Madame la Vicomtess de Boischevron",
+            "main_character": false,
+            "id": 34.0,
+            "names": [
+                "Madame la Vicomtess de Boischevron",
+                "MY GOOD MADAM"
+            ]
+        },
+        {
+            "common_name": "M. Naigeon",
+            "main_character": false,
+            "id": 35.0,
+            "names": [
+                "M. Naigeon"
+            ]
+        },
+        {
+            "names": [
+                "the Marquis d\n\n\n\n\n\n\n\nArgens"
+            ],
+            "main_character": false,
+            "id": 36.0,
+            "common_name": "the Marquis d\n\n\n\n\n\n\n\nArgens"
+        },
+        {
+            "names": [
+                "Pyrrhon"
+            ],
+            "main_character": false,
+            "id": 37.0,
+            "common_name": "Pyrrhon"
+        },
+        {
+            "common_name": "Hobbes",
+            "main_character": false,
+            "id": 38.0,
+            "names": [
+                "Hobbes"
+            ]
+        },
+        {
+            "common_name": "Diderot",
+            "main_character": false,
+            "id": 39.0,
+            "names": [
+                "Diderot"
+            ]
+        },
+        {
+            "names": [
+                "Voltaire"
+            ],
+            "main_character": false,
+            "id": 40.0,
+            "common_name": "Voltaire"
+        },
+        {
+            "common_name": "Needham",
+            "main_character": false,
+            "id": 41.0,
+            "names": [
+                "Needham"
+            ]
+        },
+        {
+            "common_name": "Cato",
+            "main_character": false,
+            "id": 42.0,
+            "names": [
+                "Cato"
+            ]
+        },
+        {
+            "common_name": "Stephen",
+            "main_character": false,
+            "id": 43.0,
+            "names": [
+                "Stephen"
+            ]
+        },
+        {
+            "names": [
+                "Jeanne d\n\n\n\n\nArc"
+            ],
+            "main_character": false,
+            "id": 44.0,
+            "common_name": "Jeanne d\n\n\n\n\nArc"
+        },
+        {
+            "common_name": "Tertullian",
+            "main_character": false,
+            "id": 45.0,
+            "names": [
+                "Tertullian"
+            ]
+        },
+        {
+            "common_name": "Madame the Vicomtess de Boischevron",
+            "main_character": false,
+            "id": 46.0,
+            "names": [
+                "Good Madame",
+                "Madame the Vicomtess de Boischevron"
+            ]
+        },
+        {
+            "common_name": "Monsieur the Cardinal",
+            "main_character": false,
+            "id": 47.0,
+            "names": [
+                "Monsieur the Cardinal"
+            ]
+        },
+        {
+            "names": [
+                "Sylvanie"
+            ],
+            "main_character": false,
+            "id": 48.0,
+            "common_name": "Sylvanie"
+        },
+        {
+            "common_name": "Lord Germain",
+            "main_character": false,
+            "id": 49.0,
+            "names": [
+                "Lord Germain"
+            ]
+        },
+        {
+            "common_name": "Generals Clinton, Cornwallis",
+            "main_character": false,
+            "id": 50.0,
+            "names": [
+                "Generals Clinton, Cornwallis"
+            ]
+        },
+        {
+            "common_name": "Admirals on the American station",
+            "main_character": false,
+            "id": 51.0,
+            "names": [
+                "Admirals on the American station"
+            ]
+        },
+        {
+            "names": [
+                "Hugo",
+                "Bishop of Ptolema\n\n\n\n\n\n\n\nïs"
+            ],
+            "main_character": false,
+            "id": 52.0,
+            "common_name": "Hugo"
+        },
+        {
+            "common_name": "Barleycourt",
+            "main_character": false,
+            "id": 53.0,
+            "names": [
+                "Barleycourt"
+            ]
+        },
+        {
+            "common_name": "Onkelos",
+            "main_character": false,
+            "id": 54.0,
+            "names": [
+                "Onkelos"
+            ]
+        },
+        {
+            "common_name": "a worthy cur\n\n\n\n\n\n\n\n\n\né",
+            "main_character": false,
+            "id": 55.0,
+            "names": [
+                "a worthy cur\n\n\n\n\n\n\n\n\n\né"
+            ]
+        },
+        {
+            "names": [
+                "a child who offered to serve as a guide",
+                "a child"
+            ],
+            "main_character": false,
+            "id": 56.0,
+            "common_name": "a child who offered to serve as a guide"
+        },
+        {
+            "common_name": "Madame de R\n\n\n\n\n\n\n\n\n\n—\n\n\n\n\n—",
+            "main_character": false,
+            "id": 57.0,
+            "names": [
+                "Madame de R\n\n\n\n\n\n\n\n\n\n—\n\n\n\n\n—",
+                "the good woman"
+            ]
+        },
+        {
+            "common_name": "Jean Valjean",
+            "main_character": true,
+            "id": 58.0,
+            "names": [
+                "Jean Valjean",
+                "a man who was travelling on foot",
+                "the traveller",
+                "the stranger",
+                "the newcomer",
+                "a galley-slave; a convict",
+                "a man",
+                "this man who was on the point of death",
+                "the wretched fellow",
+                "a mountebank"
+            ]
+        },
+        {
+            "common_name": "Jacquin Labarre",
+            "main_character": false,
+            "id": 59.0,
+            "names": [
+                "Jacquin Labarre",
+                "the host",
+                "the landlord"
+            ]
+        },
+        {
+            "names": [
+                "General Drouot"
+            ],
+            "main_character": false,
+            "id": 60.0,
+            "common_name": "General Drouot"
+        },
+        {
+            "common_name": "General Bertrand",
+            "main_character": false,
+            "id": 61.0,
+            "names": [
+                "General Bertrand"
+            ]
+        },
+        {
+            "names": [
+                "the Emperor Napoleon"
+            ],
+            "main_character": false,
+            "id": 62.0,
+            "common_name": "the Emperor Napoleon"
+        },
+        {
+            "names": [
+                "Monsieur le Comte Nought",
+                "Count***"
+            ],
+            "main_character": false,
+            "id": 63.0,
+            "common_name": "M. le Comte Nought"
+        },
+        {
+            "common_name": "a young boy",
+            "main_character": false,
+            "id": 64.0,
+            "names": [
+                "a young boy"
+            ]
+        },
+        {
+            "names": [
+                "the peasant",
+                "the master of the house"
+            ],
+            "main_character": false,
+            "id": 65.0,
+            "common_name": "a peasant"
+        },
+        {
+            "names": [
+                "the woman"
+            ],
+            "main_character": false,
+            "id": 66.0,
+            "common_name": "the woman"
+        },
+        {
+            "common_name": "a child",
+            "main_character": false,
+            "id": 67.0,
+            "names": [
+                "the child",
+                "the younger child"
+            ]
+        },
+        {
+            "common_name": "Lord Germain",
+            "main_character": false,
+            "id": 68.0,
+            "names": [
+                "Lord Germain"
+            ]
+        },
+        {
+            "names": [
+                "Louis XVII."
+            ],
+            "main_character": false,
+            "id": 69.0,
+            "common_name": "Louis XVII"
+        },
+        {
+            "names": [
+                "de Maistre"
+            ],
+            "main_character": false,
+            "id": 70.0,
+            "common_name": "de Maistre"
+        },
+        {
+            "common_name": "Beccaria",
+            "main_character": false,
+            "id": 71.0,
+            "names": [
+                "Beccaria"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id1": 1.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 2.0,
+            "positivity": 1.0,
+            "weight": 10.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "employee"
+            ],
+            "id2": 3.0,
+            "positivity": 0.5,
+            "weight": 4.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 4.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "met in passing"
+            ],
+            "id1": 1.0,
+            "id2": 5.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "predecessor"
+            ],
+            "id1": 1.0,
+            "id2": 6.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "historical"
+            ],
+            "id1": 1.0,
+            "id2": 7.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "historical"
+            ],
+            "id2": 8.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "historical"
+            ],
+            "id2": 9.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "historical"
+            ],
+            "id2": 10.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "historical"
+            ],
+            "id2": 11.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "historical"
+            ],
+            "id2": 12.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "historical"
+            ],
+            "id2": 13.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 1.0,
+            "id2": 14.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "political opponent"
+            ],
+            "id1": 1.0,
+            "id2": 15.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "political opponent"
+            ],
+            "id1": 1.0,
+            "id2": 16.0,
+            "positivity": -0.2,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "distant relative"
+            ],
+            "id2": 17.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "distant reference"
+            ],
+            "id2": 18.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 19.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 1.0,
+            "id2": 20.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "religious"
+            ],
+            "id2": 21.0,
+            "positivity": 1.0,
+            "weight": 4.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "distant reference"
+            ],
+            "id2": 23.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "distant reference"
+            ],
+            "id1": 1.0,
+            "id2": 24.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "co-workers"
+            ],
+            "id1": 2.0,
+            "id2": 3.0,
+            "positivity": 0.8,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "uncle"
+            ],
+            "id1": 4.0,
+            "id2": 5.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "business"
+            ],
+            "id1": 58.0,
+            "id2": 59.0,
+            "positivity": -0.4,
+            "weight": 5.0
+        },
+        {
+            "id1": 58.0,
+            "relation": [
+                "brief encounter"
+            ],
+            "id2": 65.0,
+            "positivity": -0.2,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "brief encounter"
+            ],
+            "id1": 58.0,
+            "id2": 66.0,
+            "positivity": -0.1,
+            "weight": 2.0
+        },
+        {
+            "id1": 58.0,
+            "relation": [
+                "brief encounter"
+            ],
+            "id2": 57.0,
+            "positivity": 0.3,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "authority"
+            ],
+            "id1": 58.0,
+            "id2": 32.0,
+            "positivity": -1.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 58.0,
+            "relation": [
+                "guide"
+            ],
+            "id2": 29.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "political"
+            ],
+            "id1": 16.0,
+            "id2": 15.0,
+            "positivity": -0.4,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "distant relative"
+            ],
+            "id1": 17.0,
+            "id2": 1.0,
+            "positivity": 0.1,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "preacher-listener"
+            ],
+            "id1": 19.0,
+            "id2": 27.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 20.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 1.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 25.0,
+            "relation": [
+                "criminal"
+            ],
+            "id2": 26.0,
+            "positivity": 0.0,
+            "weight": 3.0
+        },
+        {
+            "id1": 59.0,
+            "relation": [
+                "business"
+            ],
+            "id2": 61.0,
+            "positivity": 0.3,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 65.0,
+            "id2": 66.0,
+            "positivity": 0.0,
+            "weight": 3.0
+        },
+        {
+            "id1": 65.0,
+            "relation": [
+                "work"
+            ],
+            "id2": 29.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "work"
+            ],
+            "id1": 66.0,
+            "id2": 29.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 28.0,
+            "relation": [
+                "political"
+            ],
+            "id2": 1.0,
+            "positivity": 0.0,
+            "weight": 3.0
+        },
+        {
+            "id1": 29.0,
+            "relation": [
+                "servant"
+            ],
+            "id2": 28.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "title"
+            ],
+            "id1": 1.0,
+            "id2": 22.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 34.0,
+            "id2": 48.0,
+            "positivity": 1.0,
+            "weight": 3.0
+        },
+        {
+            "id1": 34.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 47.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 58.0,
+            "relation": [
+                "religious"
+            ],
+            "id2": 21.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "religious"
+            ],
+            "id1": 19.0,
+            "id2": 21.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "preacher-listener"
+            ],
+            "id1": 27.0,
+            "id2": 19.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "same"
+            ],
+            "id1": 5.0,
+            "id2": 62.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 63.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 1.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        }
+    ]
+}

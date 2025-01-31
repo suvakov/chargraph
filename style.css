@@ -6,13 +6,148 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#file-selector {
+#file-selector,
+#file-selector-iter {
     position: fixed;
-    top: 20px;
     left: 20px;
     z-index: 1000;
+}
+
+#file-selector {
+    top: 20px;
+}
+
+#file-selector-iter {
+    top: 60px;
+}
+
+.container {
     display: flex;
-    gap: 10px;
+    width: 100%;
+    height: 100vh;
+}
+
+#info-panel {
+    width: 300px;
+    background-color: #2a2a2a;
+    padding: 20px;
+    overflow-y: auto;
+    border-right: 1px solid #3a3a3a;
+}
+
+.info-content h2 {
+    margin-top: 0;
+    color: #ffffff;
+    border-bottom: 1px solid #3a3a3a;
+    padding-bottom: 10px;
+}
+
+.info-content h3 {
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.relations-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.relation-item {
+    background-color: #1a1a1a;
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px solid #3a3a3a;
+}
+
+.relation-item strong {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.relation-item br {
+    content: "";
+    margin: 8px 0;
+    display: block;
+}
+
+.popup-content {
+    color: #ffffff;
+}
+
+.popup-content h2 {
+    margin-top: 10px;
+}
+
+#info-panel.hidden {
+    display: none;
+}
+
+.info-content {
+    color: #ffffff;
+}
+
+#char-image,
+#mobile-char-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+#char-image.hidden,
+#mobile-char-image.hidden {
+    display: none;
+}
+
+#mobile-popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(26, 26, 26, 0.95);
+    z-index: 2000;
+    overflow-y: auto;
+}
+
+#mobile-popup.visible {
+    display: block;
+}
+
+.popup-content {
+    width: 90%;
+    height: 90%;
+    margin: 5% auto;
+    background-color: #2a2a2a;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+    overflow-y: auto;
+}
+
+#close-popup {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    background: none;
+    border: none;
+    color: #ffffff;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+@media (max-width: 768px) {
+    #info-panel {
+        display: none;
+    }
+
+    #graph {
+        width: 100%;
+    }
 }
 
 #bookSelect,

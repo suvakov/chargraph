@@ -181,7 +181,8 @@ function createVisualization(data) {
             .attr("r", d.main_character ? 10 : 6)
             .attr("fill", color(d.id))
             .on("mouseover", showNodeTooltip)
-            .on("mouseout", hideTooltip);
+            .on("mouseout", hideTooltip)
+            .on("click", (event, d) => showNodeInfo(d));
 
         // Try to load the image
         const img = new Image();
@@ -266,26 +267,84 @@ function createVisualization(data) {
     }
 }
 
-// Node tooltip function
-function showNodeTooltip(event, d) {
+// Node info display function
+function showNodeInfo(d) {
     const namesList = d.names.map(name => `${name}`).join(', ');
     const relations = links.filter(l => l.source.id === d.id || l.target.id === d.id)
         .map(l => {
             const other = l.source.id === d.id ? nodes.find(n => n.id === l.target.id) : nodes.find(n => n.id === l.source.id);
             const positivity = l.positivity > 0 ? `+${l.positivity}` : l.positivity;
-            return ` - ${other.common_name}: ${l.relation.join(', ')} (strength: ${l.weight}, positivity: ${positivity})<br>`;
+            return `<div class="relation-item">
+                <strong>${other.common_name}</strong><br>
+                Type: ${l.relation.join(', ')}<br>
+                Strength: ${l.weight}<br>
+                Positivity: ${positivity}
+            </div>`;
         }).join('');
 
+    const infoContent = `
+        <h2>${d.common_name}</h2>
+        ${d.description ? `<p>${d.description}</p>` : ''}
+        <h3>Also known as:</h3>
+        <p>${namesList}</p>
+        <h3>Relationships:</h3>
+        <div class="relations-list">
+            ${relations}
+        </div>
+    `;
+
+    // Try to load character image
+    const prefix = currentBookData[1];
+    const imagePath = `data/${prefix}/${d.common_name}.png`;
+
+    if (window.innerWidth <= 768) {
+        // Mobile view
+        document.getElementById('mobile-char-name').innerHTML = d.common_name;
+        document.getElementById('mobile-char-description').innerHTML = infoContent;
+        const mobileImage = document.getElementById('mobile-char-image');
+
+        // Check if image exists
+        fetch(imagePath)
+            .then(response => {
+                if (response.ok) {
+                    mobileImage.src = imagePath;
+                    mobileImage.classList.remove('hidden');
+                } else {
+                    mobileImage.classList.add('hidden');
+                }
+            })
+            .catch(() => mobileImage.classList.add('hidden'));
+
+        document.getElementById('mobile-popup').classList.add('visible');
+    } else {
+        // Desktop view
+        document.getElementById('char-name').innerHTML = d.common_name;
+        document.getElementById('char-description').innerHTML = infoContent;
+        const charImage = document.getElementById('char-image');
+
+        // Check if image exists
+        fetch(imagePath)
+            .then(response => {
+                if (response.ok) {
+                    charImage.src = imagePath;
+                    charImage.classList.remove('hidden');
+                } else {
+                    charImage.classList.add('hidden');
+                }
+            })
+            .catch(() => charImage.classList.add('hidden'));
+
+        document.getElementById('info-panel').classList.remove('hidden');
+        document.getElementById('graph').style.width = 'calc(100% - 300px)';
+    }
+}
+
+// Node tooltip hover function
+function showNodeTooltip(event, d) {
     tooltip.classed("hidden", false)
         .html(`
         <h3>${d.common_name}</h3>
-        <p>${d.description ? d.description + '<br>' : ''}
-        <br>
-        <b>Also known as:</b> ${namesList}
-        <br><br>
-        <b>Relationships:</b><br>
-        ${relations}
-        </p>
+        <p>${d.description || ''}</p>
         `)
         .style("left", `${event.pageX + 15}px`)
         .style("top", `${event.pageY - 28}px`);
@@ -295,3 +354,21 @@ function showNodeTooltip(event, d) {
 function hideTooltip() {
     tooltip.classed("hidden", true);
 }
+
+// Initialize mobile popup close button
+document.getElementById('close-popup').addEventListener('click', () => {
+    document.getElementById('mobile-popup').classList.remove('visible');
+});
+
+// Handle window resize
+window.addEventListener('resize', () => {
+    const infoPanel = document.getElementById('info-panel');
+    const graph = document.getElementById('graph');
+
+    if (window.innerWidth <= 768) {
+        infoPanel.classList.add('hidden');
+        graph.style.width = '100%';
+    } else if (!infoPanel.classList.contains('hidden')) {
+        graph.style.width = 'calc(100% - 300px)';
+    }
+});

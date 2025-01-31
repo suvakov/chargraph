@@ -10,10 +10,22 @@
 
 <body>
     <div id="file-selector">
-        <select id="bookSelect"></select><br>
+        <select id="bookSelect"></select>
+    </div>
+    <div id="file-selector-iter">
         <select id="iterSelect"></select>
     </div>
-    <div id="graph"></div>
+    <div class="container">
+        <div id="info-panel" class="hidden">
+            <div class="info-content">
+                <img id="char-image" class="hidden">
+                <h2 id="char-name"></h2>
+                <div id="char-description"></div>
+                <div id="char-relations"></div>
+            </div>
+        </div>
+        <div id="graph"></div>
+    </div>
     <div id="tooltip" class="hidden">
         <h3><span id="name"></span></h3>
         <p><span id="description"></span></p>

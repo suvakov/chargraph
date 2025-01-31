@@ -9,7 +9,7 @@ body {
 #file-selector,
 #file-selector-iter {
     position: fixed;
-    left: 20px;
+    right: 20px;
     z-index: 1000;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 #info-panel {
-    width: 300px;
+    width: 25%;
     background-color: #2a2a2a;
     padding: 20px;
     overflow-y: auto;
@@ -72,6 +72,20 @@ body {
     display: block;
 }
 
+.image-prompt {
+    background-color: #1a1a1a;
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid #3a3a3a;
+    font-family: monospace;
+    white-space: pre-wrap;
+    word-break: break-word;
+    margin: 10px 0;
+    line-height: 1.4;
+    cursor: text;
+    user-select: all;
+}
+
 .popup-content {
     color: #ffffff;
 }
@@ -108,24 +122,37 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(26, 26, 26, 0.95);
     z-index: 2000;
-    overflow-y: auto;
 }
 
 #mobile-popup.visible {
     display: block;
 }
 
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(26, 26, 26, 0.95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
 .popup-content {
     width: 90%;
+    max-width: 600px;
     height: 90%;
-    margin: 5% auto;
+    max-height: 90vh;
     background-color: #2a2a2a;
     padding: 20px;
     border-radius: 8px;
     position: relative;
     overflow-y: auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 #close-popup {
@@ -140,13 +167,34 @@ body {
     padding: 5px 10px;
 }
 
-@media (max-width: 768px) {
+/* Portrait orientation indicates mobile device */
+@media (orientation: portrait) {
     #info-panel {
         display: none;
     }
 
     #graph {
         width: 100%;
+    }
+
+    #file-selector,
+    #file-selector-iter {
+        left: right;
+    }
+
+    .popup-content {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 90%;
+        height: 90%;
+        max-height: 90vh;
+        margin: 0;
+        background-color: #2a2a2a;
+        padding: 20px;
+        border-radius: 8px;
+        overflow-y: auto;
     }
 }
 

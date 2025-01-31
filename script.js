@@ -283,8 +283,11 @@ function showNodeInfo(d) {
         }).join('');
 
     const infoContent = `
-        <h2>${d.common_name}</h2>
         ${d.description ? `<p>${d.description}</p>` : ''}
+        ${d.portrait_prompt ? `
+            <h3>Image Generation Prompt:</h3>
+            <p class="image-prompt">${d.portrait_prompt}</p>
+        ` : ''}
         <h3>Also known as:</h3>
         <p>${namesList}</p>
         <h3>Relationships:</h3>
@@ -297,7 +300,7 @@ function showNodeInfo(d) {
     const prefix = currentBookData[1];
     const imagePath = `data/${prefix}/${d.common_name}.png`;
 
-    if (window.innerWidth <= 768) {
+    if (window.innerHeight > window.innerWidth) { // Portrait orientation indicates mobile
         // Mobile view
         document.getElementById('mobile-char-name').innerHTML = d.common_name;
         document.getElementById('mobile-char-description').innerHTML = infoContent;
@@ -335,7 +338,7 @@ function showNodeInfo(d) {
             .catch(() => charImage.classList.add('hidden'));
 
         document.getElementById('info-panel').classList.remove('hidden');
-        document.getElementById('graph').style.width = 'calc(100% - 300px)';
+        document.getElementById('graph').style.width = '75%';
     }
 }
 
@@ -365,10 +368,10 @@ window.addEventListener('resize', () => {
     const infoPanel = document.getElementById('info-panel');
     const graph = document.getElementById('graph');
 
-    if (window.innerWidth <= 768) {
+    if (window.innerHeight > window.innerWidth) { // Portrait orientation indicates mobile
         infoPanel.classList.add('hidden');
         graph.style.width = '100%';
     } else if (!infoPanel.classList.contains('hidden')) {
-        graph.style.width = 'calc(100% - 300px)';
+        graph.style.width = '75%';
     }
 });

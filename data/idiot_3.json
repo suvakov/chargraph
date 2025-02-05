@@ -1,0 +1,1155 @@
+{
+    "characters": [
+        {
+            "common_name": "Muishkin",
+            "description": "A young man of about twenty-seven, returning to Russia after treatment for epilepsy in Switzerland. He is known for his simplicity, honesty, and compassionate nature, often being seen as naive or an 'idiot' by those around him. He becomes entangled in a complex web of relationships, and is often the target of both admiration and manipulation because of his kind and sincere nature, and his inheritance as a prince",
+            "main_character": true,
+            "id": 1.0,
+            "names": [
+                "Prince Lef Nicolaievitch Muishkin",
+                "the prince",
+                "Swiss patient"
+            ]
+        },
+        {
+            "common_name": "Rogojin",
+            "description": "A passionate and volatile young man of about twenty-seven, heir to a large fortune. His character is marked by his intense, often destructive, love for Nastasia Philipovna, leading him to acts of jealousy and possessiveness. He is also prone to bouts of illness and fever, and is easily aroused to anger and violence. He is often noted for his dark looks, and intense emotions",
+            "main_character": true,
+            "id": 2.0,
+            "names": [
+                "Parfen Rogojin",
+                "Rogojin"
+            ]
+        },
+        {
+            "common_name": "Lebedeff",
+            "description": "A shabbily dressed man of about forty, who acts as a clerk, with a red nose and blotchy face. He is an acquaintance of many, often possessing much inside information regarding various individuals. He is a sycophant and gossip, often attaching himself to those with money and influence, while having a tendency to get drunk and talk too much. He claims to be a scholar of the Apocalypse",
+            "main_character": false,
+            "id": 3.0,
+            "names": [
+                "Lebedeff",
+                "the clerk",
+                "red-nosed passenger"
+            ]
+        },
+        {
+            "common_name": "Epanchin",
+            "description": "A general of about fifty-five years of age, who has risen from the ranks. He is a man of no education, but is known for his sagacity and cleverness. He is ambitious and desirous of power. He is a man of many ties and acquaintances, and is a busy man in the city. He is a successful, though not a very cultured man",
+            "main_character": false,
+            "id": 4.0,
+            "names": [
+                "General Ivan Fedorovitch Epanchin",
+                "the general"
+            ]
+        },
+        {
+            "names": [
+                "Mrs. General Epanchin",
+                "Elizabetha Prokofievna",
+                "Madame Epanchin"
+            ],
+            "description": "General Epanchin's wife, proud of her lineage from the ancient princely stock of Muishkin. She is a strong-willed woman of about fifty-five, sometimes capricious and impatient, but known to be kindhearted at times. She is known for her curiosity and often expresses herself with cutting frankness, and she has no doubt she knows the ‘world’ well",
+            "main_character": false,
+            "id": 5.0,
+            "common_name": "Elizabetha Prokofievna Epanchin"
+        },
+        {
+            "names": [
+                "Alexandra",
+                "the eldest",
+                "eldest daughter"
+            ],
+            "description": "The eldest of the Epanchin daughters, about twenty-five years of age. She is a quiet and thoughtful woman with musical talent. She is known for her sisterly love, and her quiet, sensible nature",
+            "main_character": false,
+            "id": 6.0,
+            "common_name": "Alexandra Epanchin"
+        },
+        {
+            "common_name": "Adelaida Epanchin",
+            "description": "The middle daughter of the Epanchin family, about twenty-three years of age. She is a talented artist, but is often hesitant to show her artistic talent. She is clever, but can be rather indecisive at times",
+            "main_character": false,
+            "id": 7.0,
+            "names": [
+                "Adelaida",
+                "the middle daughter"
+            ]
+        },
+        {
+            "names": [
+                "Aglaya",
+                "youngest girl",
+                "the youngest daughter"
+            ],
+            "description": "The youngest of the Epanchin daughters, about twenty years of age. She is considered an extraordinary beauty, and is highly sought after in society, and very self-willed. She is both arrogant and childish, and frequently defies her family. She longs to do good, and is very sensitive and passionate about certain things",
+            "main_character": true,
+            "id": 8.0,
+            "common_name": "Aglaya Epanchin"
+        },
+        {
+            "common_name": "Gavrila Ardalionovitch Ivolgin",
+            "description": "A handsome young man of about twenty-eight, who is the secretary of General Epanchin. He is proud, ambitious, and calculating; he is easily agitated by those who oppose him. He is a man who would like to be seen as an intellectual, but is ultimately more concerned with his position in society than with principles. He is also prone to acts of self-humiliation and self-abasement when faced with the impossibility of achieving his own ends, and is often described as a blackguard. He is extremely anxious to become rich",
+            "main_character": false,
+            "id": 9.0,
+            "names": [
+                "Gavrila Ardalionovitch",
+                "Gania"
+            ]
+        },
+        {
+            "names": [
+                "Mr. Pavlicheff",
+                "Nicolai Andreevitch"
+            ],
+            "description": "A wealthy man who supported Muishkin for many years. He was good friends with Muishkin\n’s father. He is spoken of as a generous man, and a scholar of note. He died in Switzerland two to three years prior to the main events of the book",
+            "main_character": false,
+            "id": 10.0,
+            "common_name": "Pavlicheff"
+        },
+        {
+            "names": [
+                "Nina Alexandrovna",
+                "Gania's mother"
+            ],
+            "description": "General Ardalion Alexandrovitch Ivolgin's wife, a woman of about fifty. She is of the princely stock of Muishkin, and she is extremely proud of her descent. She is a sad and long-suffering woman, and is constantly at odds with her husband. She has a kind heart, and she tries to do her best for her children",
+            "main_character": false,
+            "id": 11.0,
+            "common_name": "Nina Alexandrovna Ivolgin"
+        },
+        {
+            "common_name": "Varvara Ardalionovna Ivolgin",
+            "description": "Gania's sister, about twenty-three years of age. She is a woman of great resolution and character, known for her good sense and her keen observation of others. She is rather reserved, and tends to keep her own feelings to herself, though at times her anger breaks out unexpectedly. She is married to Ptitsin, and acts as a caregiver to her family, though she tends to be rather domineering at times. She has opinions of her own that she does not hesitate to state",
+            "main_character": false,
+            "id": 12.0,
+            "names": [
+                "Varvara Ardalionovna",
+                "Varvara",
+                "Varia"
+            ]
+        },
+        {
+            "common_name": "Ardalion Alexandrovitch Ivolgin",
+            "description": "A retired general and father of Gania, Varia, and Colia. He is an old soldier known for his stories, though not always consistent with reality. He is described as having a kindly heart, but is also known to lie and to indulge too frequently in drink, and to become irrationally angry. He and General Epanchin are former brothers in arms, though they now live apart",
+            "main_character": false,
+            "id": 13.0,
+            "names": [
+                "General Ardalion Alexandrovitch Ivolgin",
+                "General Ivolgin",
+                "the general"
+            ]
+        },
+        {
+            "names": [
+                "Colia",
+                "the boy"
+            ],
+            "description": "Gania's younger brother, about thirteen years of age. He is known for his frank and open character and for his fondness for the prince. He often acts as a confidant and friend to those around him. He is an intelligent and thoughtful boy, though at times mischievous",
+            "main_character": false,
+            "id": 14.0,
+            "common_name": "Colia Ivolgin"
+        },
+        {
+            "common_name": "Afanasy Ivanovitch Totski",
+            "description": "A man of about fifty-five years of age, wealthy, with high connections. He is an admirer of beauty, and also an egotist of the extreme type. He is a man of refined tastes. He is a friend of General Epanchin, and has for many years kept Nastasia Philipovna, but now wishes to marry one of Epanchin\n’s daughters and to get rid of his past",
+            "main_character": false,
+            "id": 15.0,
+            "names": [
+                "Afanasy Ivanovitch Totski",
+                "Totski"
+            ]
+        },
+        {
+            "common_name": "Nastasia Philipovna Barashkoff",
+            "description": "A woman of about twenty-five years of age, described as having extreme beauty, and known to be a witty and intelligent woman. She has been kept by Totski, but lives more or less alone, although she has several friends, including several actresses, and some poor women. She is known for her proud and passionate character, and for her fierce independence. Though many seek her out for her beauty, she seems always to be alone and haunted by past traumas, and has little faith in anything",
+            "main_character": true,
+            "id": 16.0,
+            "names": [
+                "Nastasia Philipovna",
+                "Nastasia",
+                "the great beauty",
+                "the Swiss patient"
+            ]
+        },
+        {
+            "names": [
+                "Ferdishenko",
+                "that fellow Ferd-Ferd"
+            ],
+            "description": "An ill-bred young clerk, and a hanger-on of Nastasia Philipovna. He is a would-be wit and a gossip, and often behaves in an uncouth fashion. He fancies himself a man of the world, though no one else holds him in any esteem",
+            "main_character": false,
+            "id": 17.0,
+            "common_name": "Ferdishenko"
+        },
+        {
+            "names": [
+                "Ptitsin"
+            ],
+            "description": "A money-lender of modest and polished manners, who has risen from poverty. He is a friend of Gania, and a follower of Nastasia Philipovna’s. He is, however, an intelligent and cautious man, and has much more common sense than most of those around him",
+            "main_character": false,
+            "id": 18.0,
+            "common_name": "Ptitsin"
+        },
+        {
+            "common_name": "Prince S",
+            "description": "A remarkably handsome young fellow of some twenty-eight summers, fair, of middle height and good social standing. He is a kind and amiable man, but has a tendency to be somewhat condescending. He is a distant relative of the Epanchins, and is engaged to Adelaida",
+            "main_character": false,
+            "id": 19.0,
+            "names": [
+                "Prince S"
+            ]
+        },
+        {
+            "names": [
+                "Professor Schneider",
+                "Schneider"
+            ],
+            "description": "A professor of medicine in Switzerland who treated Muishkin and supported him at his own expense, after the death of Mr. Pavlicheff. He is described as a good-hearted man, though perhaps a little naive",
+            "main_character": false,
+            "id": 20.0,
+            "common_name": "Schneider"
+        },
+        {
+            "names": [
+                "Le Gros"
+            ],
+            "description": "A criminal that Muishkin saw beheaded in Lyons, France. He is described as a fine intelligent, fearless man, who cried from fear on the scaffold",
+            "main_character": false,
+            "id": 21.0,
+            "common_name": "Le Gros"
+        },
+        {
+            "names": [
+                "Zaleshoff"
+            ],
+            "description": "A friend of Rogojin, who is described as a hairdresser\n’s assistant, with fashionable clothing",
+            "main_character": false,
+            "id": 22.0,
+            "common_name": "Zaleshoff"
+        },
+        {
+            "names": [
+                "Konief"
+            ],
+            "description": "A man who wrote to Rogojin about his father\n’s death and his brother\n’s actions",
+            "main_character": false,
+            "id": 23.0,
+            "common_name": "Konief"
+        },
+        {
+            "common_name": "Lihachof",
+            "description": "A man who was in the debtor's prison and an acquaintance of Lebedeff",
+            "main_character": false,
+            "id": 24.0,
+            "names": [
+                "Lihachof"
+            ]
+        },
+        {
+            "common_name": "Aunt of Rogojin",
+            "description": "Rogojin's aunt in Pskoff at whose house he was sick with fever",
+            "main_character": false,
+            "id": 28.0,
+            "names": [
+                "Rogojin's aunt"
+            ]
+        },
+        {
+            "common_name": "Senka Rogojin",
+            "description": "Rogojin's brother, who lives with his mother. He is said to have cut off the gold tassels from his father's coffin for the sake of money",
+            "main_character": false,
+            "id": 29.0,
+            "names": [
+                "Senka Rogojin",
+                "brother Senka"
+            ]
+        },
+        {
+            "names": [
+                "Semen Rogojin",
+                "Rogojin's father"
+            ],
+            "description": "Rogojin's recently deceased father, who left his son a fortune of two and a half million roubles. He was a strict and tyrannical man",
+            "main_character": false,
+            "id": 30.0,
+            "common_name": "Semen Rogojin"
+        },
+        {
+            "names": [
+                "Le Gros"
+            ],
+            "description": "Criminal that Prince Muishkin saw beheaded. Mentioned as being a fine, intelligent, fearless man, who cried at his execution",
+            "main_character": false,
+            "id": 31.0,
+            "common_name": "Le Gros"
+        },
+        {
+            "names": [
+                "Schneider"
+            ],
+            "description": "A doctor from Switzerland",
+            "main_character": false,
+            "id": 32.0,
+            "common_name": "Schneider"
+        },
+        {
+            "common_name": "Karamsin",
+            "description": "A historian whose books mentions the Muishkin family",
+            "main_character": false,
+            "id": 33.0,
+            "names": [
+                "Karamsin"
+            ]
+        },
+        {
+            "common_name": "Pafnute",
+            "description": "A historical abbot, whose signature is used by Prince Muishkin in a calligraphic exercise",
+            "main_character": false,
+            "id": 34.0,
+            "names": [
+                "Abbot Pafnute"
+            ]
+        },
+        {
+            "names": [
+                "Lihachof"
+            ],
+            "description": "A man who was in the debtor's prison, and was acquainted with Lebedeff",
+            "main_character": false,
+            "id": 35.0,
+            "common_name": "Lihachof"
+        },
+        {
+            "common_name": "Zemarin family",
+            "description": "A family who were murdered and the murder was discussed by the characters",
+            "main_character": false,
+            "id": 36.0,
+            "names": [
+                "Zemarin family"
+            ]
+        },
+        {
+            "names": [
+                "Peter Volhofskoi"
+            ],
+            "description": "A man who was desperately in love with Anfisa Alexeyevna",
+            "main_character": false,
+            "id": 37.0,
+            "common_name": "Peter Volhofskoi"
+        },
+        {
+            "common_name": "Anfisa Alexeyevna",
+            "description": "A woman who had a birthday",
+            "main_character": false,
+            "id": 38.0,
+            "names": [
+                "Anfisa Alexeyevna"
+            ]
+        },
+        {
+            "names": [
+                "Daria",
+                "Daria, the housemaid"
+            ],
+            "description": "A housemaid of Maria Ivanovna who was suspected of theft",
+            "main_character": false,
+            "id": 39.0,
+            "common_name": "Daria, the housemaid"
+        },
+        {
+            "names": [
+                "Maria Ivanovna"
+            ],
+            "description": "Owner of a writing-table where money was stolen from",
+            "main_character": false,
+            "id": 40.0,
+            "common_name": "Maria Ivanovna"
+        },
+        {
+            "common_name": "Jules Thibaut",
+            "description": "A schoolmaster who was an enemy of the prince because he was jealous of the children's love for him",
+            "main_character": false,
+            "id": 41.0,
+            "names": [
+                "Jules Thibaut"
+            ]
+        },
+        {
+            "common_name": "Colonel C",
+            "description": "A military man who visited General Epanchin",
+            "main_character": false,
+            "id": 42.0,
+            "names": [
+                "Colonel C"
+            ]
+        },
+        {
+            "names": [
+                "brother Senka"
+            ],
+            "description": "Rogojin's brother",
+            "main_character": false,
+            "id": 43.0,
+            "common_name": "Senka"
+        },
+        {
+            "names": [
+                "Lieutenant Moloftsoff"
+            ],
+            "description": "A young officer who challenged Prince Muishkin",
+            "main_character": false,
+            "id": 44.0,
+            "common_name": "Lieutenant Moloftsoff"
+        },
+        {
+            "common_name": "Tchebaroff",
+            "description": "A lawyer, who acted as an agent for Burdovsky and was also a friend of his",
+            "main_character": false,
+            "id": 45.0,
+            "names": [
+                "Tchebaroff"
+            ]
+        },
+        {
+            "names": [
+                "Kostia Lebedeff"
+            ],
+            "description": "Nephew of Lebedeff",
+            "main_character": false,
+            "id": 46.0,
+            "common_name": "Kostia Lebedeff"
+        },
+        {
+            "common_name": "Maria",
+            "description": "An orphan girl whose kindness was taken advantage of by a travelling salesman",
+            "main_character": false,
+            "id": 47.0,
+            "names": [
+                "Maria"
+            ]
+        },
+        {
+            "common_name": "Elizabetha Prokofievna Epanchin's Mother",
+            "description": "Elizabetha Prokofievna\n’s mother and the last of the Muishkin line, mentioned by Prince Muishkin",
+            "main_character": false,
+            "id": 48.0,
+            "names": [
+                "Princess Muishkin"
+            ]
+        },
+        {
+            "names": [
+                "Peter Zakkaritch"
+            ],
+            "description": "A character that was mentioned in passing",
+            "main_character": false,
+            "id": 49.0,
+            "common_name": "Peter Zakkaritch"
+        }
+    ],
+    "relations": [
+        {
+            "relation": [
+                "acquaintances",
+                "rivals",
+                "friends"
+            ],
+            "id1": 1.0,
+            "id2": 2.0,
+            "positivity": 0.2,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "acquaintances",
+                "travel companions"
+            ],
+            "id1": 1.0,
+            "id2": 3.0,
+            "positivity": 0.3,
+            "weight": 4.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "distant relatives",
+                "acquaintances"
+            ],
+            "id2": 4.0,
+            "positivity": 0.3,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "distant relatives"
+            ],
+            "id1": 1.0,
+            "id2": 5.0,
+            "positivity": 0.1,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "friends"
+            ],
+            "id2": 6.0,
+            "positivity": 0.5,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "friends"
+            ],
+            "id1": 1.0,
+            "id2": 7.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintances",
+                "friends"
+            ],
+            "id2": 8.0,
+            "positivity": 0.5,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 9.0,
+            "positivity": 0.2,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "benefactor"
+            ],
+            "id1": 1.0,
+            "id2": 10.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "distant relatives"
+            ],
+            "id1": 1.0,
+            "id2": 11.0,
+            "positivity": 0.6,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 1.0,
+            "id2": 12.0,
+            "positivity": 0.5,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "distant relatives"
+            ],
+            "id2": 13.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "friends"
+            ],
+            "id1": 1.0,
+            "id2": 14.0,
+            "positivity": 0.8,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "friends"
+            ],
+            "id1": 1.0,
+            "id2": 19.0,
+            "positivity": 0.4,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 22.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 1.0,
+            "id2": 31.0,
+            "positivity": 0.3,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 1.0,
+            "id2": 32.0,
+            "positivity": 0.9,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "mentioned"
+            ],
+            "id1": 1.0,
+            "id2": 33.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "mentioned"
+            ],
+            "id1": 1.0,
+            "id2": 34.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances",
+                "travel companions"
+            ],
+            "id1": 2.0,
+            "id2": 3.0,
+            "positivity": -0.2,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "lovers",
+                "obsessive"
+            ],
+            "id1": 2.0,
+            "id2": 16.0,
+            "positivity": 0.3,
+            "weight": 10.0
+        },
+        {
+            "relation": [
+                "friends"
+            ],
+            "id1": 2.0,
+            "id2": 22.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 2.0,
+            "id2": 28.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "brothers"
+            ],
+            "id1": 2.0,
+            "id2": 29.0,
+            "positivity": -0.3,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 3.0,
+            "id2": 16.0,
+            "positivity": 0.0,
+            "weight": 3.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 9.0,
+            "positivity": 0.3,
+            "weight": 2.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "acquaintances",
+                "lodger and landlord"
+            ],
+            "id2": 13.0,
+            "positivity": -0.4,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 3.0,
+            "id2": 24.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 35.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "spouses"
+            ],
+            "id2": 5.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "father and daughter"
+            ],
+            "id1": 4.0,
+            "id2": 6.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "father and daughter"
+            ],
+            "id2": 7.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "father and daughter"
+            ],
+            "id1": 4.0,
+            "id2": 8.0,
+            "positivity": 0.8,
+            "weight": 7.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "friends"
+            ],
+            "id2": 15.0,
+            "positivity": 0.6,
+            "weight": 5.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "friends",
+                "employers"
+            ],
+            "id2": 9.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "mother and daughter"
+            ],
+            "id1": 5.0,
+            "id2": 6.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "mother and daughter"
+            ],
+            "id1": 5.0,
+            "id2": 7.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "mother and daughter"
+            ],
+            "id1": 5.0,
+            "id2": 8.0,
+            "positivity": 0.9,
+            "weight": 9.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "sisters"
+            ],
+            "id2": 7.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "sisters"
+            ],
+            "id1": 6.0,
+            "id2": 8.0,
+            "positivity": 0.9,
+            "weight": 9.0
+        },
+        {
+            "relation": [
+                "sisters"
+            ],
+            "id1": 7.0,
+            "id2": 8.0,
+            "positivity": 0.9,
+            "weight": 9.0
+        },
+        {
+            "id1": 8.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 19.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "id1": 9.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 11.0,
+            "positivity": 0.9,
+            "weight": 7.0
+        },
+        {
+            "id1": 9.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 12.0,
+            "positivity": 0.9,
+            "weight": 7.0
+        },
+        {
+            "id1": 9.0,
+            "relation": [
+                "father and son"
+            ],
+            "id2": 13.0,
+            "positivity": 0.1,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "friends"
+            ],
+            "id1": 9.0,
+            "id2": 18.0,
+            "positivity": 0.6,
+            "weight": 4.0
+        },
+        {
+            "id1": 9.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 16.0,
+            "positivity": 0.1,
+            "weight": 3.0
+        },
+        {
+            "id1": 11.0,
+            "relation": [
+                "spouses"
+            ],
+            "id2": 13.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "mother and daughter"
+            ],
+            "id1": 11.0,
+            "id2": 12.0,
+            "positivity": 0.6,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "spouses"
+            ],
+            "id1": 12.0,
+            "id2": 18.0,
+            "positivity": 0.5,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "friends"
+            ],
+            "id1": 13.0,
+            "id2": 15.0,
+            "positivity": 0.3,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "acquaintances",
+                "former brothers in arms"
+            ],
+            "id1": 13.0,
+            "id2": 4.0,
+            "positivity": 0.0,
+            "weight": 5.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 24.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 20.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "acquaintances",
+                "distant relatives"
+            ],
+            "id2": 1.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "former lovers"
+            ],
+            "id1": 16.0,
+            "id2": 15.0,
+            "positivity": -0.5,
+            "weight": 7.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 9.0,
+            "positivity": 0.1,
+            "weight": 3.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 17.0,
+            "positivity": 0.2,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 16.0,
+            "id2": 3.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 22.0,
+            "positivity": 0.1,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 16.0,
+            "id2": 1.0,
+            "positivity": 0.3,
+            "weight": 2.0
+        },
+        {
+            "id1": 17.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 16.0,
+            "positivity": 0.1,
+            "weight": 1.0
+        },
+        {
+            "id1": 18.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 16.0,
+            "positivity": 0.2,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances",
+                "engaged"
+            ],
+            "id1": 19.0,
+            "id2": 7.0,
+            "positivity": 0.3,
+            "weight": 7.0
+        },
+        {
+            "id1": 19.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 8.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 21.0,
+            "id2": 1.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 22.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 16.0,
+            "positivity": 0.1,
+            "weight": 1.0
+        },
+        {
+            "id1": 22.0,
+            "relation": [
+                "friends"
+            ],
+            "id2": 2.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 1.0,
+            "id2": 32.0,
+            "positivity": 0.9,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "mentioned"
+            ],
+            "id2": 33.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "mentioned"
+            ],
+            "id2": 34.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 35.0,
+            "relation": [
+                "acquaintances"
+            ],
+            "id2": 3.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 44.0,
+            "relation": [
+                "antagonistic"
+            ],
+            "id2": 1.0,
+            "positivity": -0.2,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 45.0,
+            "id2": 16.0,
+            "positivity": 0.1,
+            "weight": 1.0
+        },
+        {
+            "id1": 46.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 3.0,
+            "positivity": 0.2,
+            "weight": 2.0
+        },
+        {
+            "id1": 47.0,
+            "relation": [
+                "mentioned"
+            ],
+            "id2": 1.0,
+            "positivity": 0.2,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "mentioned"
+            ],
+            "id1": 48.0,
+            "id2": 1.0,
+            "positivity": 0.2,
+            "weight": 1.0
+        }
+    ]
+}

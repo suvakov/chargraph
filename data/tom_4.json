@@ -1,783 +1,1002 @@
 {
     "relations": [
         {
-            "id1": 1.0,
             "relation": [
-                "aunt",
-                "nephew"
+                "Aunt",
+                "Nephew"
             ],
+            "id1": 1.0,
             "id2": 2.0,
-            "positivity": 0.8,
+            "positivity": 0.6,
             "weight": 8.0
         },
         {
             "relation": [
-                "friends",
-                "adventurers"
+                "Friends",
+                "Companions"
             ],
             "id1": 1.0,
             "id2": 3.0,
             "positivity": 0.9,
-            "weight": 9.0
-        },
-        {
-            "relation": [
-                "friends",
-                "comrades"
-            ],
-            "id1": 1.0,
-            "id2": 4.0,
-            "positivity": 0.9,
-            "weight": 8.0
-        },
-        {
-            "id1": 1.0,
-            "relation": [
-                "love interest",
-                "romantic"
-            ],
-            "id2": 5.0,
-            "positivity": 0.7,
-            "weight": 7.0
-        },
-        {
-            "relation": [
-                "half-brothers",
-                "rivals"
-            ],
-            "id1": 1.0,
-            "id2": 6.0,
-            "positivity": -0.2,
-            "weight": 5.0
-        },
-        {
-            "id1": 1.0,
-            "relation": [
-                "enemies",
-                "antagonists"
-            ],
-            "id2": 7.0,
-            "positivity": -1.0,
             "weight": 10.0
         },
         {
             "id1": 1.0,
             "relation": [
-                "acquaintances"
+                "Half-brothers"
             ],
-            "id2": 8.0,
-            "positivity": 0.2,
-            "weight": 3.0
-        },
-        {
-            "relation": [
-                "past love interest"
-            ],
-            "id1": 1.0,
-            "id2": 9.0,
-            "positivity": 0.5,
-            "weight": 4.0
-        },
-        {
-            "relation": [
-                "acquaintances"
-            ],
-            "id1": 1.0,
-            "id2": 10.0,
-            "positivity": 0.6,
-            "weight": 4.0
-        },
-        {
-            "id1": 1.0,
-            "relation": [
-                "student",
-                "teacher"
-            ],
-            "id2": 11.0,
+            "id2": 4.0,
             "positivity": -0.3,
-            "weight": 4.0
+            "weight": 6.0
         },
         {
             "id1": 1.0,
             "relation": [
-                "cousins"
+                "Cousins"
             ],
-            "id2": 12.0,
+            "id2": 5.0,
             "positivity": 0.7,
             "weight": 5.0
         },
         {
             "id1": 1.0,
             "relation": [
-                "acquaintance",
-                "neighbor"
+                "Enemies"
             ],
-            "id2": 13.0,
-            "positivity": 0.5,
-            "weight": 4.0
+            "id2": 6.0,
+            "positivity": -1.0,
+            "weight": 9.0
         },
         {
             "id1": 1.0,
             "relation": [
-                "acquaintance"
+                "Friends"
             ],
-            "id2": 14.0,
+            "id2": 7.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "Love Interest"
+            ],
+            "id1": 1.0,
+            "id2": 8.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "Acquaintances"
+            ],
+            "id1": 1.0,
+            "id2": 9.0,
             "positivity": 0.4,
             "weight": 3.0
         },
         {
             "relation": [
-                "schoolmates",
-                "friends"
+                "Ex-Love Interest"
             ],
             "id1": 1.0,
-            "id2": 15.0,
-            "positivity": 0.7,
-            "weight": 6.0
+            "id2": 10.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Schoolmates"
+            ],
+            "id2": 11.0,
+            "positivity": 0.4,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Rivals"
+            ],
+            "id2": 12.0,
+            "positivity": -0.2,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Student",
+                "Teacher"
+            ],
+            "id2": 13.0,
+            "positivity": -0.5,
+            "weight": 5.0
         },
         {
             "relation": [
-                "rivals"
+                "Acquaintances"
             ],
             "id1": 1.0,
+            "id2": 14.0,
+            "positivity": 0.3,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Victim",
+                "Witness"
+            ],
+            "id2": 15.0,
+            "positivity": -1.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Acquaintances"
+            ],
             "id2": 16.0,
-            "positivity": -0.5,
+            "positivity": 0.3,
+            "weight": 3.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Student",
+                "Teacher"
+            ],
+            "id2": 17.0,
+            "positivity": 0.2,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "Rivals"
+            ],
+            "id1": 1.0,
+            "id2": 18.0,
+            "positivity": -0.8,
+            "weight": 2.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "Aunt",
+                "Nephew"
+            ],
+            "id2": 4.0,
+            "positivity": 0.6,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "Aunt",
+                "Niece"
+            ],
+            "id1": 2.0,
+            "id2": 5.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "Employer",
+                "Employee"
+            ],
+            "id2": 16.0,
+            "positivity": 0.5,
             "weight": 4.0
         },
         {
             "relation": [
-                "student",
-                "teacher"
+                "Enemies"
             ],
-            "id1": 1.0,
-            "id2": 17.0,
+            "id1": 3.0,
+            "id2": 6.0,
+            "positivity": -1.0,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "Acquaintances"
+            ],
+            "id1": 3.0,
+            "id2": 9.0,
+            "positivity": 0.3,
+            "weight": 3.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 19.0,
+            "positivity": 0.2,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "Friends"
+            ],
+            "id1": 3.0,
+            "id2": 20.0,
+            "positivity": 0.7,
+            "weight": 4.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "Benefactor",
+                "Beneficiary"
+            ],
+            "id2": 33.0,
+            "positivity": 0.8,
+            "weight": 6.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "Manipulator",
+                "Victim"
+            ],
+            "id2": 9.0,
+            "positivity": -0.8,
+            "weight": 7.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "Murderer",
+                "Victim"
+            ],
+            "id2": 15.0,
+            "positivity": -1.0,
+            "weight": 9.0
+        },
+        {
+            "relation": [
+                "Enemies"
+            ],
+            "id1": 6.0,
+            "id2": 21.0,
+            "positivity": -0.7,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "Schoolmates"
+            ],
+            "id1": 7.0,
+            "id2": 11.0,
+            "positivity": 0.7,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "Schoolmates"
+            ],
+            "id1": 7.0,
+            "id2": 12.0,
+            "positivity": 0.2,
+            "weight": 3.0
+        },
+        {
+            "id1": 8.0,
+            "relation": [
+                "Cousins"
+            ],
+            "id2": 12.0,
+            "positivity": 0.3,
+            "weight": 4.0
+        },
+        {
+            "id1": 8.0,
+            "relation": [
+                "Rivals"
+            ],
+            "id2": 10.0,
+            "positivity": -0.4,
+            "weight": 4.0
+        },
+        {
+            "id1": 8.0,
+            "relation": [
+                "Student",
+                "Teacher"
+            ],
+            "id2": 13.0,
+            "positivity": 0.0,
+            "weight": 3.0
+        },
+        {
+            "id1": 8.0,
+            "relation": [
+                "Daughter",
+                "Father"
+            ],
+            "id2": 14.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "Acquaintances",
+                "Victim"
+            ],
+            "id1": 9.0,
+            "id2": 15.0,
+            "positivity": -0.6,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "Student",
+                "Teacher"
+            ],
+            "id1": 10.0,
+            "id2": 13.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 11.0,
+            "relation": [
+                "Student",
+                "Teacher"
+            ],
+            "id2": 13.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "Student",
+                "Teacher"
+            ],
+            "id2": 13.0,
             "positivity": 0.0,
             "weight": 2.0
         },
         {
             "relation": [
-                "student",
-                "minister"
+                "Acquaintances"
             ],
-            "id1": 1.0,
+            "id1": 13.0,
+            "id2": 14.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "Friends"
+            ],
+            "id2": 20.0,
+            "positivity": 0.7,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "Teacher",
+                "Student"
+            ],
+            "id1": 17.0,
             "id2": 18.0,
             "positivity": 0.0,
-            "weight": 1.0
-        },
-        {
-            "relation": [
-                "enemies"
-            ],
-            "id1": 1.0,
-            "id2": 19.0,
-            "positivity": -1.0,
-            "weight": 1.0
-        },
-        {
-            "relation": [
-                "acquaintances"
-            ],
-            "id1": 1.0,
-            "id2": 21.0,
-            "positivity": 0.6,
             "weight": 2.0
         },
         {
+            "relation": [
+                "Neighbors"
+            ],
+            "id1": 21.0,
+            "id2": 33.0,
+            "positivity": 0.7,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "Mother",
+                "Son"
+            ],
+            "id1": 22.0,
+            "id2": 7.0,
+            "positivity": 0.7,
+            "weight": 8.0
+        },
+        {
             "id1": 1.0,
             "relation": [
-                "acquaintances"
+                "Acquaintances"
+            ],
+            "id2": 22.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "Acquaintances"
             ],
             "id2": 22.0,
             "positivity": 0.6,
             "weight": 2.0
         },
         {
-            "id1": 1.0,
+            "id1": 10.0,
             "relation": [
-                "acquaintances"
+                "Rivals"
             ],
-            "id2": 24.0,
-            "positivity": 0.7,
+            "id2": 1.0,
+            "positivity": -0.2,
             "weight": 3.0
         },
         {
+            "id1": 14.0,
             "relation": [
-                "acquaintances"
+                "Father",
+                "Son"
             ],
-            "id1": 1.0,
-            "id2": 26.0,
-            "positivity": 0.6,
-            "weight": 2.0
-        },
-        {
-            "id1": 1.0,
-            "relation": [
-                "acquaintances"
-            ],
-            "id2": 28.0,
-            "positivity": 0.0,
-            "weight": 1.0
-        },
-        {
-            "id1": 1.0,
-            "relation": [
-                "acquaintances"
-            ],
-            "id2": 29.0,
-            "positivity": -0.2,
-            "weight": 2.0
-        },
-        {
-            "relation": [
-                "aunt",
-                "nephew"
-            ],
-            "id1": 2.0,
-            "id2": 6.0,
-            "positivity": 0.7,
-            "weight": 7.0
-        },
-        {
-            "relation": [
-                "aunt",
-                "niece"
-            ],
-            "id1": 2.0,
             "id2": 12.0,
-            "positivity": 0.8,
-            "weight": 6.0
-        },
-        {
-            "relation": [
-                "employer",
-                "employee"
-            ],
-            "id1": 2.0,
-            "id2": 14.0,
             "positivity": 0.6,
             "weight": 4.0
         },
         {
-            "id1": 2.0,
             "relation": [
-                "acquaintances"
+                "Father",
+                "Daughter"
             ],
-            "id2": 30.0,
-            "positivity": 0.5,
-            "weight": 2.0
-        },
-        {
-            "id1": 2.0,
-            "relation": [
-                "acquaintances"
-            ],
-            "id2": 31.0,
-            "positivity": 0.5,
-            "weight": 1.0
-        },
-        {
-            "relation": [
-                "enemies"
-            ],
-            "id1": 3.0,
-            "id2": 7.0,
-            "positivity": -1.0,
-            "weight": 9.0
-        },
-        {
-            "id1": 3.0,
-            "relation": [
-                "friends",
-                "comrades"
-            ],
-            "id2": 4.0,
-            "positivity": 0.9,
-            "weight": 8.0
-        },
-        {
-            "relation": [
-                "acquaintance"
-            ],
-            "id1": 3.0,
+            "id1": 14.0,
             "id2": 8.0,
-            "positivity": 0.2,
-            "weight": 2.0
-        },
-        {
-            "relation": [
-                "guardian",
-                "ward"
-            ],
-            "id1": 3.0,
-            "id2": 13.0,
-            "positivity": 0.7,
+            "positivity": 0.6,
             "weight": 6.0
         },
         {
             "relation": [
-                "acquaintances"
+                "Benefactor",
+                "Beneficiary"
             ],
-            "id1": 3.0,
-            "id2": 15.0,
-            "positivity": 0.6,
-            "weight": 4.0
-        },
-        {
-            "id1": 3.0,
-            "relation": [
-                "acquaintances"
-            ],
-            "id2": 23.0,
-            "positivity": 0.5,
-            "weight": 1.0
-        },
-        {
-            "relation": [
-                "acquaintances"
-            ],
-            "id1": 3.0,
-            "id2": 25.0,
-            "positivity": 0.5,
-            "weight": 1.0
-        },
-        {
-            "relation": [
-                "acquaintances"
-            ],
-            "id1": 3.0,
-            "id2": 27.0,
-            "positivity": 0.6,
-            "weight": 2.0
-        },
-        {
-            "id1": 4.0,
-            "relation": [
-                "enemies"
-            ],
-            "id2": 7.0,
-            "positivity": -1.0,
+            "id1": 21.0,
+            "id2": 1.0,
+            "positivity": 0.7,
             "weight": 5.0
         },
         {
-            "id1": 4.0,
+            "id1": 21.0,
             "relation": [
-                "friends"
+                "Benefactor",
+                "Beneficiary"
             ],
-            "id2": 15.0,
+            "id2": 3.0,
+            "positivity": 0.7,
+            "weight": 5.0
+        },
+        {
+            "id1": 33.0,
+            "relation": [
+                "Benefactor",
+                "Beneficiary"
+            ],
+            "id2": 1.0,
+            "positivity": 0.7,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "Benefactor",
+                "Beneficiary"
+            ],
+            "id1": 33.0,
+            "id2": 3.0,
             "positivity": 0.8,
             "weight": 6.0
         },
         {
-            "id1": 4.0,
             "relation": [
-                "acquaintances"
+                "Rivals"
             ],
-            "id2": 9.0,
-            "positivity": 0.3,
-            "weight": 1.0
-        },
-        {
-            "id1": 5.0,
-            "relation": [
-                "romantic rival"
-            ],
-            "id2": 16.0,
-            "positivity": 0.2,
-            "weight": 4.0
-        },
-        {
-            "id1": 5.0,
-            "relation": [
-                "father",
-                "daughter"
-            ],
-            "id2": 10.0,
-            "positivity": 0.7,
-            "weight": 6.0
-        },
-        {
-            "id1": 5.0,
-            "relation": [
-                "student",
-                "teacher"
-            ],
-            "id2": 11.0,
-            "positivity": -0.2,
-            "weight": 4.0
-        },
-        {
-            "id1": 7.0,
-            "relation": [
-                "partners in crime",
-                "antagonists"
-            ],
-            "id2": 8.0,
-            "positivity": -0.8,
-            "weight": 8.0
-        },
-        {
-            "id1": 7.0,
-            "relation": [
-                "enemies"
-            ],
-            "id2": 19.0,
-            "positivity": -1.0,
-            "weight": 10.0
+            "id1": 1.0,
+            "id2": 23.0,
+            "positivity": -0.5,
+            "weight": 3.0
         },
         {
             "id1": 8.0,
             "relation": [
-                "victim",
-                "aggressor"
+                "Acquaintances"
             ],
-            "id2": 19.0,
-            "positivity": -0.8,
-            "weight": 7.0
-        },
-        {
-            "relation": [
-                "student",
-                "teacher"
-            ],
-            "id1": 11.0,
-            "id2": 12.0,
-            "positivity": 0.0,
+            "id2": 23.0,
+            "positivity": 0.3,
             "weight": 3.0
         },
         {
             "relation": [
-                "friends",
-                "neighbors"
+                "Acquaintances"
             ],
-            "id1": 13.0,
-            "id2": 20.0,
-            "positivity": 0.8,
-            "weight": 6.0
+            "id1": 1.0,
+            "id2": 24.0,
+            "positivity": 0.2,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 25.0,
+            "positivity": 0.2,
+            "weight": 2.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 26.0,
+            "positivity": 0.3,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "Acquaintances"
+            ],
+            "id1": 3.0,
+            "id2": 27.0,
+            "positivity": 0.3,
+            "weight": 2.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 28.0,
+            "positivity": 0.3,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "Schoolmates"
+            ],
+            "id1": 8.0,
+            "id2": 29.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "id1": 8.0,
+            "relation": [
+                "Schoolmates"
+            ],
+            "id2": 30.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "Schoolmates"
+            ],
+            "id1": 8.0,
+            "id2": 31.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "Schoolmates"
+            ],
+            "id1": 8.0,
+            "id2": 32.0,
+            "positivity": 0.4,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 34.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 34.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 35.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "Acquaintances"
+            ],
+            "id2": 35.0,
+            "positivity": 0.0,
+            "weight": 1.0
         }
     ],
     "characters": [
         {
-            "common_name": "Tom Sawyer",
-            "description": "A mischievous and adventurous boy, Tom is the protagonist of the story. He is known for his imaginative schemes, love of adventure, and ability to charm his way out of trouble.",
-            "main_character": true,
-            "portrait_prompt": "A young boy, around 10-12 years old, with a mischievous grin and tousled brown hair. He wears simple, slightly worn clothes, perhaps a loose shirt and pants, and often goes barefoot. His expression is often playful but can also be serious or thoughtful. A background with elements of a small village, a river, or a forest would be appropriate. The artistic style should be reminiscent of classic book illustrations, with a focus on clear lines and vivid characterization. He has a knack for mischief, making him endearing despite his flaws. He is often shown with a mischievous twinkle in his eyes and a readiness for adventure. His clothing style should reflect the mid-19th century setting of the story, a simple, classic look.",
-            "id": 1.0,
             "names": [
                 "Tom",
+                "Thomas",
                 "Thomas Sawyer"
-            ]
+            ],
+            "portrait_prompt": "A young boy with a mischievous grin, tousled brown hair, and bright eyes. He wears simple, slightly rumpled clothes typical of the mid-19th century, perhaps a loose shirt and trousers. He might be holding a slingshot or a piece of chalk. The background should suggest a small-town setting, perhaps with a wooden fence or a glimpse of a river.",
+            "main_character": true,
+            "description": "A mischievous and adventurous boy, Tom is the protagonist of the story. He is imaginative and often seeks excitement, leading him into various escapades.",
+            "id": 1.0,
+            "common_name": "Tom Sawyer"
         },
         {
             "names": [
-                "aunt",
-                "Aunt Polly"
+                "Aunt Polly",
+                "aunt"
             ],
-            "description": "Tom's kind but firm aunt, Aunt Polly is responsible for raising him. She is a loving guardian who often tries to discipline Tom but is easily outsmarted. She has a tendency to see the good in Tom, despite his mischief.",
+            "description": "Tom's kind but strict aunt, she cares for him deeply despite his misbehavior. She is often conflicted between her duty to discipline him and her love for him.",
             "main_character": true,
-            "portrait_prompt": "An elderly woman with a kind but somewhat stern face, wearing spectacles perched on her gray hair. She is dressed in a simple, old-fashioned dress with an apron, reflecting her role as a caregiver. Her expression is often a mix of affection and concern, and she has a gentle yet firm demeanor. The background might be a cozy, slightly cluttered room, showing her home and daily life. The artistic style should be warm and inviting, suitable for a classic portrait, focusing on her kind heart and the love she has for her nephew.",
+            "portrait_prompt": "An elderly woman with a kind but firm face, gray hair pulled back in a bun, and spectacles perched on her nose. She wears a simple, modest dress and a shawl. Her expression should convey a mix of love and exasperation. The background could be a cozy, old-fashioned kitchen or parlor.",
             "id": 2.0,
             "common_name": "Aunt Polly"
         },
         {
-            "common_name": "Huckleberry Finn",
-            "portrait_prompt": "A young boy, similar in age to Tom, with a ragged appearance and a carefree demeanor. He wears oversized, worn-out clothing, often with patches and tears, and may be barefoot. His hair is tousled, and his expression is a mix of mischievousness and independence. His background might include a river, a forest, or an abandoned structure to reflect his free, nomadic lifestyle. The artistic style should emphasize his rebellious nature and the contrast between his freedom and Tom's more structured life. His attire consists of worn out, oversized clothes that are a bit rough around the edges, but he wears it like a badge of honor.",
-            "main_character": true,
-            "description": "A young outcast, Huck is Tom's best friend and partner in adventure. He is independent, free-spirited, and often viewed as an undesirable by the respectable adults of the town, but possesses a good heart.",
-            "id": 3.0,
             "names": [
                 "Huck",
                 "Huckleberry Finn",
                 "Finn the Red-Handed"
-            ]
+            ],
+            "description": "A free-spirited outcast, Huck is Tom's closest friend and partner in adventure. He is independent, resourceful, and often clashes with the constraints of society.",
+            "main_character": true,
+            "portrait_prompt": "A young boy with a wild, unkempt appearance, often barefoot and dressed in ragged, oversized clothes. He has a mischievous glint in his eyes and a carefree expression. He might be holding a pipe or a dead cat. The setting could be a riverbank or a ramshackle shed.",
+            "id": 3.0,
+            "common_name": "Huckleberry Finn"
         },
         {
-            "common_name": "Joe Harper",
-            "description": "Tom's close friend and a fellow adventurer. He is a bit more sentimental than Tom and often homesick, but always participates in Tom's escapades.",
-            "main_character": true,
-            "portrait_prompt": "A boy of similar age to Tom, with a slightly more sensitive and less rebellious appearance. He is usually seen in simple, practical clothing and is less adventurous in style compared to Tom and Huck. He is often portrayed as being more reflective and less mischievous than his peers, sometimes longing for home and comfort. He has a friendly, innocent face that can be both eager and a bit apprehensive. The background should capture a sense of adventure mixed with some innocence, suitable for a young friend who finds joy in both exploring and being at home. The style should show a bit more gentleness than his adventurous friends.",
+            "common_name": "Sid",
+            "portrait_prompt": "A young boy with neat, combed hair and a serious expression. He wears clean, well-fitting clothes. He should look prim and proper. The background could be a tidy, organized room or a church setting.",
+            "main_character": false,
+            "description": "Tom's well-behaved and somewhat priggish half-brother, Sid is often the foil to Tom's mischief. He is a quiet and obedient boy.",
             "id": 4.0,
             "names": [
-                "Joe",
-                "Joe Harper",
-                "The Terror of the Seas"
-            ]
-        },
-        {
-            "common_name": "Becky Thatcher",
-            "description": "A pretty, intelligent, and somewhat spoiled girl who is the object of Tom's affections. She has a strong personality and can be both affectionate and temperamental.",
-            "main_character": true,
-            "portrait_prompt": "A young girl, around the same age as Tom, with long blonde hair often styled in pigtails. She wears a white summer frock with embroidered pantalettes, reflecting her middle-class status. She has a sweet, expressive face with big blue eyes. She can often be seen with a slightly pouty or inquisitive expression. The background might be a garden, a schoolhouse, or a village street, reflecting her more conventional life. The artistic style should be delicate and detailed, emphasizing her youthful charm and feminine attire.",
-            "id": 5.0,
-            "names": [
-                "Becky",
-                "Becky Thatcher"
-            ]
-        },
-        {
-            "names": [
                 "Sid",
-                "Sidney"
-            ],
-            "description": "Tom's half-brother, Sid is a goody-two-shoes boy who is quiet, obedient, and often serves as a foil to Tom. He is not as popular with the other boys due to his well-behaved nature.",
-            "main_character": false,
-            "portrait_prompt": "A boy of similar age to Tom, with a neat, tidy appearance. He has carefully combed hair and wears clean, well-maintained clothes. His expression is typically reserved and composed, reflecting his quiet and obedient nature. The background should show a simple, orderly setting, reflecting his quiet lifestyle and adherence to rules. The style should be neat and precise, showing a contrast to Tom's more disheveled appearance.",
-            "id": 6.0,
-            "common_name": "Sid Sawyer"
-        },
-        {
-            "common_name": "Injun Joe",
-            "portrait_prompt": "A menacing man with dark features, a patch over one eye, and a grim expression. He has long black hair and might be seen with a serape or other dark, rugged clothing. His gaze is intense and threatening. The setting should reflect his dangerous and mysterious nature, such as a dark alley, a graveyard, or a cave. The style should be dark, dramatic, and full of shadows, highlighting his sinister and threatening presence.",
-            "main_character": true,
-            "description": "A villainous half-Native American man, Injun Joe is a dangerous character driven by revenge. He is involved in several violent acts throughout the story, and is a key source of fear for Tom and Huck.",
-            "id": 7.0,
-            "names": [
-                "Injun Joe",
-                "the half-breed",
-                "the deaf and dumb Spaniard"
+                "Siddy"
             ]
-        },
-        {
-            "common_name": "Muff Potter",
-            "portrait_prompt": "A middle-aged man with a disheveled appearance and a worn-out face. He has a sad, confused expression and is often depicted in simple, rugged clothing. His overall look conveys a sense of weariness and vulnerability. He might be shown in settings where he feels hopeless or lost. The style should be realistic, focusing on his character's struggle and the toll life has taken on him.",
-            "main_character": false,
-            "description": "A kind but weak-willed and often drunken man, Muff Potter is falsely accused of murder. He is easily manipulated and often down on his luck.",
-            "id": 8.0,
-            "names": [
-                "Muff Potter"
-            ]
-        },
-        {
-            "names": [
-                "Amy Lawrence"
-            ],
-            "portrait_prompt": "A young girl, similar in age to Becky, with a more typical and less striking appearance. She is shown in simple, everyday clothing of the time. Her face is pleasant and kind but not as captivating as Becky's. The background might be a schoolyard or a village scene, reflecting her ordinary and pleasant life. The artistic style should capture her pleasant but unremarkable nature, focusing on her gentle personality and simple attire.",
-            "main_character": false,
-            "description": "A girl that Tom was previously interested in, Amy is briefly mentioned as a past love interest, showing Tom's fickle nature when it comes to romantic relationships. She is later eclipsed by his interest in Becky.",
-            "id": 9.0,
-            "common_name": "Amy Lawrence"
-        },
-        {
-            "names": [
-                "Judge Thatcher"
-            ],
-            "portrait_prompt": "A portly, middle-aged gentleman with a dignified and composed demeanor. He has a stern but fair expression, often accompanied by a neatly trimmed beard and iron-gray hair. He is dressed in formal attire suitable for his role as a judge, conveying authority and respectability. The setting would be his office, courtroom, or other formal setting. The artistic style should emphasize his authoritative presence and his role as an important figure in the community, using clear lines and a dignified pose.",
-            "main_character": false,
-            "description": "A respected and influential figure in the town, Judge Thatcher is Becky's father and a figure of authority and respect. He is impressed by Tom's bravery in rescuing Becky.",
-            "id": 10.0,
-            "common_name": "Judge Thatcher"
-        },
-        {
-            "names": [
-                "Mr. Dobbins",
-                "the master"
-            ],
-            "portrait_prompt": "A middle-aged man with a stern face, a thin mustache, and a receding hairline. He wears a stiff collar and a severe expression. He holds a rod or a book, symbolizing his role as a strict authority figure. The background should be a schoolhouse, with desks and a blackboard. The artistic style should emphasize his strict and imposing presence.",
-            "main_character": false,
-            "description": "The strict and often tyrannical schoolmaster. He is a figure of authority and frustration for the children.",
-            "id": 11.0,
-            "common_name": "Mr. Dobbins"
         },
         {
             "common_name": "Mary",
-            "description": "Tom's cousin, Mary is a kind, sweet, and gentle girl who is often seen looking after Tom and trying to keep him on the right path.",
+            "portrait_prompt": "A young girl with a sweet, gentle face and neatly styled hair. She wears a simple, modest dress. Her expression should convey kindness and patience. The background could be a comfortable, domestic setting.",
             "main_character": false,
-            "portrait_prompt": "A young girl, similar in age to Becky, with a kind and gentle demeanor. She has a sweet face and often wears simple, practical clothing. Her hair is neatly styled, and her expression is typically calm and caring. The setting would be a simple home interior or a church setting, reflecting her quiet and thoughtful life. The artistic style should be soft and warm, emphasizing her kindness and inner peace.",
-            "id": 12.0,
+            "description": "Tom's kind and gentle cousin, Mary is a good influence on him. She is patient and understanding.",
+            "id": 5.0,
             "names": [
                 "Mary"
             ]
         },
         {
             "names": [
-                "Widow Douglas"
+                "Injun Joe",
+                "the half-breed",
+                "the Spaniard",
+                "that murderin’ half-breed"
             ],
-            "portrait_prompt": "A fair, smart, and forty woman, with a kind, compassionate face. She is dressed in simple but elegant attire, befitting her status as a wealthy and generous widow. She has a warm and caring expression, and her look reflects both her benevolence and her strength. The setting should include elements of a gracious and comfortable home. The style should be classical and heartwarming, focusing on her compassionate character.",
-            "main_character": false,
-            "description": "A kind and wealthy woman, she offers protection to Huck and takes on a motherly role towards him. She also exhibits great hospitality and charity throughout the story.",
-            "id": 13.0,
-            "common_name": "Widow Douglas"
+            "portrait_prompt": "A menacing man with a dark complexion, long black hair, and a sinister expression. He has a prominent scar or patch over one eye. He wears ragged, dark clothing and might be holding a knife or a weapon. The setting could be a dark, shadowy place or a desolate landscape.",
+            "main_character": true,
+            "description": "A dangerous and vengeful half-Native American man, Injun Joe is the main antagonist of the story. He is a ruthless and violent criminal.",
+            "id": 6.0,
+            "common_name": "Injun Joe"
+        },
+        {
+            "common_name": "Joe Harper",
+            "portrait_prompt": "A young boy with a friendly, eager face and a slightly mischievous grin. He wears simple, practical clothes and might be holding a toy sword or a stick. The background could be a forest or a riverbank.",
+            "main_character": true,
+            "description": "Tom's close friend and fellow adventurer, Joe is a loyal and enthusiastic companion. He is easily led by Tom's ideas.",
+            "id": 7.0,
+            "names": [
+                "Joe Harper",
+                "the Terror of the Seas",
+                "Joe"
+            ]
         },
         {
             "names": [
-                "Jim"
+                "Becky Thatcher",
+                "Becky"
             ],
-            "portrait_prompt": "A young African-American boy, slightly younger than Tom, often depicted performing chores. His clothing is simple and modest, reflecting his social status, and his expression is often patient and kind. He is sometimes shown with traces of mischief or surprise, capturing his personality. He is often depicted with a smile or thoughtful gaze. The setting should capture his humble and hard-working life. The style should be realistic and sensitive to the historical context.",
+            "portrait_prompt": "A young girl with a pretty, delicate face, blue eyes, and long yellow hair often styled in braids. She wears a neat, fashionable dress and a bonnet. Her expression should convey a mix of sweetness and pride. The background could be a schoolhouse or a garden.",
+            "main_character": true,
+            "description": "Tom's love interest, Becky is a pretty and spirited girl. She is initially drawn to Tom's adventurous nature but is also easily offended.",
+            "id": 8.0,
+            "common_name": "Becky Thatcher"
+        },
+        {
+            "names": [
+                "Muff Potter",
+                "old Muff"
+            ],
+            "description": "A kind but weak-willed town drunk, Muff Potter is wrongly accused of murder. He is often the victim of circumstance and manipulation.",
             "main_character": false,
-            "description": "A young colored boy who works for Aunt Polly, Jim is often teased by Tom, though he is a kind, loyal, and hardworking character.",
-            "id": 14.0,
-            "common_name": "Jim"
+            "portrait_prompt": "A middle-aged man with a worn, haggard face, often looking confused or frightened. He wears simple, tattered clothes. He might be holding a knife or a mug. The background could be a graveyard or a jail cell.",
+            "id": 9.0,
+            "common_name": "Muff Potter"
+        },
+        {
+            "names": [
+                "Amy Lawrence"
+            ],
+            "description": "A girl who was previously Tom's love interest, she is quickly forgotten when Becky Thatcher arrives. She is somewhat vain and easily jealous.",
+            "main_character": false,
+            "portrait_prompt": "A young girl with a pretty, but slightly spoiled face. She wears a nice dress and might have a ribbon in her hair. Her expression should convey a mix of sweetness and vanity. The background could be a schoolhouse or a party setting.",
+            "id": 10.0,
+            "common_name": "Amy Lawrence"
         },
         {
             "names": [
                 "Ben Rogers"
             ],
-            "description": "One of Tom's schoolmates, Ben is easily persuaded and often joins in Tom's schemes. He is known for his imitations of a steamboat and being easily fooled by Tom.",
+            "portrait_prompt": "A young boy with a simple, somewhat naive face. He wears typical schoolboy clothes. He might be holding an apple or a toy. The background could be a schoolyard or a riverbank.",
             "main_character": false,
-            "portrait_prompt": "A boy of similar age to Tom, with a playful and gullible demeanor. He is often shown with a wide grin and is a bit clumsy. He is dressed in simple, everyday clothing of the time. The setting should capture his playful nature, such as a schoolyard or a riverbank. The artistic style should be fun and lighthearted, reflecting his easygoing and sometimes foolish personality.",
-            "id": 15.0,
+            "description": "A boy who is easily tricked by Tom, Ben is one of Tom's schoolmates. He is gullible and somewhat envious of Tom's adventures.",
+            "id": 11.0,
             "common_name": "Ben Rogers"
         },
         {
-            "common_name": "Alfred Temple",
-            "description": "A new boy in town from St. Louis, Alfred is considered more refined and wealthier by the other kids, which leads him to be seen as a bit of a rival. He briefly vies for Becky's attention.",
-            "main_character": false,
-            "portrait_prompt": "A boy of similar age to Tom, but with a more refined appearance. He is dressed in fancier, more modern clothes compared to the other boys, often with a neat hat. His expression is somewhat aloof and self-important. The setting might reflect his more sophisticated background, such as a town street or a schoolroom with a hint of city life. The style should highlight his dapper appearance and slightly arrogant demeanor.",
-            "id": 16.0,
             "names": [
-                "Alfred Temple"
-            ]
-        },
-        {
-            "common_name": "Mr. Walters",
-            "description": "The Sunday-school superintendent. He is a sincere and honest man but is often flustered by the children.",
-            "main_character": false,
-            "portrait_prompt": "A slim man of about thirty-five with a sandy goatee and short sandy hair. He wears a stiff standing-collar and a cravat. He is often shown with a book in his hand and a very earnest expression. The setting is a church or Sunday school setting. The artistic style should portray his sincerity but also his slight awkwardness with the children.",
-            "id": 17.0,
-            "names": [
-                "Mr. Walters"
-            ]
-        },
-        {
-            "names": [
-                "Rev. Mr. Sprague"
+                "Jeff Thatcher"
             ],
-            "portrait_prompt": "A minister with a long face and a kind but somewhat long-suffering look. He is shown in simple clerical attire. He always holds a bible or hymn book in hand. He is shown in a church or pulpit settings. The style should showcase his earnestness and traditional role.",
+            "description": "Becky's cousin, Jeff is a boy who is sometimes a rival to Tom. He is often seen trying to impress others.",
             "main_character": false,
-            "description": "The local minister, known for his long-winded prayers and readings that are admired by the town, if not by Tom.",
-            "id": 18.0,
-            "common_name": "Rev. Mr. Sprague"
+            "portrait_prompt": "A young boy with a somewhat smug face. He wears neat, fashionable clothes. He might be trying to shake hands with someone important. The setting could be a school or a public gathering.",
+            "id": 12.0,
+            "common_name": "Jeff Thatcher"
+        },
+        {
+            "names": [
+                "Mr. Dobbins",
+                "the master"
+            ],
+            "description": "The stern and somewhat pedantic schoolmaster, Mr. Dobbins is often the target of the boys' pranks. He has a secret desire to be a doctor.",
+            "main_character": false,
+            "portrait_prompt": "A middle-aged man with a stern, serious face, a bald head covered by a wig, and a stiff collar. He wears a formal suit and might be holding a book or a ferule. The background could be a schoolroom with a blackboard.",
+            "id": 13.0,
+            "common_name": "Mr. Dobbins"
+        },
+        {
+            "names": [
+                "Judge Thatcher",
+                "the Judge"
+            ],
+            "portrait_prompt": "A middle-aged man with a dignified, imposing appearance, iron-gray hair, and a serious expression. He wears a formal suit and might be holding a book or a gavel. The background could be a courtroom or a formal setting.",
+            "main_character": false,
+            "description": "Becky's father, Judge Thatcher is a respected figure in the town. He is impressed by Tom's bravery and resourcefulness.",
+            "id": 14.0,
+            "common_name": "Judge Thatcher"
         },
         {
             "names": [
                 "Doctor Robinson",
                 "Sawbones"
             ],
-            "portrait_prompt": "A young man with a kind but serious face, shown in the attire of a doctor or surgeon. He is seen as competent but also somewhat helpless. The setting might be his medical office or the place of the murder in the graveyard. The style should convey his professionalism and the tragedy of his fate.",
+            "portrait_prompt": "A young man with a clean-shaven face and a serious expression. He wears a professional-looking suit or coat. The background could be a doctor's office or a graveyard.",
             "main_character": false,
-            "description": "A young doctor in town. He is murdered by Injun Joe after a grave robbing incident. He is described as promising.",
-            "id": 19.0,
+            "description": "A young doctor who is murdered by Injun Joe, he is a relatively minor character but his death sets the plot in motion.",
+            "id": 15.0,
             "common_name": "Doctor Robinson"
         },
         {
             "names": [
-                "Old Welshman",
-                "Mr. Jones"
+                "Jim"
             ],
-            "description": "A kind and protective neighbor of the Widow Douglas, he is quick to assist when danger threatens. He is seen as a reliable and honorable man.",
+            "portrait_prompt": "A young African American boy with a simple, earnest face. He wears simple, worn clothes. He might be carrying a bucket or doing chores. The setting could be a backyard or a woodpile.",
             "main_character": false,
-            "portrait_prompt": "An elderly man with a weathered face and a kind, strong presence. He is dressed in simple, practical clothing, reflecting his hardworking and honorable character. He is often depicted with a thoughtful and serious expression. The setting should show a comfortable home or a natural outdoor setting. The style should emphasize his strength and his role as a protector of his community.",
-            "id": 20.0,
-            "common_name": "Old Welshman"
+            "description": "A young enslaved boy who works for Aunt Polly, Jim is often tasked with chores and is sometimes the target of Tom's pranks.",
+            "id": 16.0,
+            "common_name": "Jim"
         },
         {
-            "common_name": "Billy Fisher",
-            "description": "A boy who briefly engages in the whitewashing scheme, trading for a kite.",
+            "common_name": "Mr. Walters",
+            "description": "The Sunday school superintendent, Mr. Walters is a well-meaning but somewhat pompous figure. He is often shown trying to impress visitors.",
             "main_character": false,
-            "portrait_prompt": "A young boy, similar to Tom and his friends, with an eager and somewhat gullible expression. He is dressed in simple, practical clothing suitable for outdoor play. The background might be a village street or a yard, reflecting his everyday life and interaction with other boys. The artistic style should be simple and straightforward, capturing his youthful energy.",
-            "id": 21.0,
+            "portrait_prompt": "A slim man of about 35 with a sandy goatee and short sandy hair. He wears a stiff standing-collar and a broad cravat. He might be holding a hymn book. The background could be a church or a school setting.",
+            "id": 17.0,
             "names": [
-                "Billy Fisher"
+                "Mr. Walters"
             ]
         },
         {
-            "names": [
-                "Johnny Miller"
-            ],
-            "description": "A boy who briefly participates in the whitewashing scheme.",
+            "common_name": "Willie Mufferson",
+            "portrait_prompt": "A young boy with a very neat and tidy appearance. He wears spotless clothes and a white handkerchief. His expression is overly virtuous. The background could be a church or a school setting.",
             "main_character": false,
-            "portrait_prompt": "A young boy, similar to Tom and his friends, with a simple, perhaps a bit mischievous, face. He is shown in basic period clothing, and the background should reflect an ordinary, perhaps a little rundown, village setting. The artistic style would be in keeping with a classic story book style.",
-            "id": 22.0,
-            "common_name": "Johnny Miller"
+            "description": "The model boy of the village, Willie is hated by the other boys for his perfect behavior. He is often used as an example of good conduct.",
+            "id": 18.0,
+            "names": [
+                "Willie Mufferson"
+            ]
         },
         {
-            "common_name": "Mother Hopkins",
-            "portrait_prompt": "An elderly woman with a stern and somewhat mysterious face. Her hair is gray and stringy and she might be wearing old, dark clothing. The background should be rustic and simple, such as an old, slightly dilapidated house or a dark wooded area. The artistic style should portray a sense of unease and old folklore.",
-            "main_character": false,
-            "description": "An old woman in town, seen as a witch by the kids.",
-            "id": 23.0,
             "names": [
                 "Mother Hopkins"
+            ],
+            "description": "An old woman considered a witch by the townspeople, she is mentioned in connection with superstitions.",
+            "main_character": false,
+            "portrait_prompt": "An elderly woman with a wrinkled face and a mysterious expression. She might be wearing a shawl and a bonnet. The setting could be a dark forest or a small, old house.",
+            "id": 19.0,
+            "common_name": "Mother Hopkins"
+        },
+        {
+            "names": [
+                "Uncle Jake"
+            ],
+            "description": "A kind and helpful enslaved man who works for Ben Rogers' family, he is friendly to Huck.",
+            "main_character": false,
+            "portrait_prompt": "An older African American man with a kind face. He wears simple work clothes and might be carrying a bucket or doing chores. The setting could be a backyard or a woodpile.",
+            "id": 20.0,
+            "common_name": "Uncle Jake"
+        },
+        {
+            "names": [
+                "the Welshman",
+                "Mr. Jones"
+            ],
+            "portrait_prompt": "An old man with a kind, honest face, and gray hair. He wears simple, practical clothes. The background could be a house on a hill or a forest setting.",
+            "main_character": false,
+            "description": "A kind and helpful man who lives on Cardiff Hill, he helps Huck and protects the Widow Douglas.",
+            "id": 21.0,
+            "common_name": "Old Man"
+        },
+        {
+            "names": [
+                "Mrs. Harper"
+            ],
+            "portrait_prompt": "A middle-aged woman with a kind but worried face. She wears simple, dark clothing. Her expression should convey a mix of love and concern. The background could be a domestic setting or a church.",
+            "main_character": false,
+            "description": "Joe Harper's mother, she is a kind and emotional woman. She is often seen grieving for her son.",
+            "id": 22.0,
+            "common_name": "Mrs. Harper"
+        },
+        {
+            "names": [
+                "Alfred Temple"
+            ],
+            "description": "A boy from St. Louis who is seen as a rival by Tom. He is somewhat arrogant and is used by Becky to make Tom jealous.",
+            "main_character": false,
+            "portrait_prompt": "A young boy with a neat, somewhat arrogant appearance. He wears fashionable clothes and might be holding a book or a picture. The setting could be a schoolhouse or a social gathering.",
+            "id": 23.0,
+            "common_name": "Alfred Temple"
+        },
+        {
+            "common_name": "Benny Taylor",
+            "description": "A boy who owns a wagon that Tom borrows.",
+            "main_character": false,
+            "portrait_prompt": "A young boy with a simple, ordinary appearance. He wears typical schoolboy clothes. The setting could be a street or a backyard.",
+            "id": 24.0,
+            "names": [
+                "Benny Taylor"
             ]
         },
         {
-            "common_name": "Jeff Thatcher",
-            "portrait_prompt": "A young boy, likely similar in age to Tom, with a somewhat confident demeanor. He is wearing simple clothes that are slightly better than the other kids. He should be placed in a setting that is reflective of a middle class small town, such as a schoolhouse or village street. The art style is reflective of classic children's literature.",
+            "common_name": "Sereny Harper",
+            "portrait_prompt": "A middle-aged woman with a plain but kind face. She wears simple, modest clothing. The setting could be a domestic setting.",
             "main_character": false,
-            "description": "A schoolmate of Tom's, he is the brother of Judge Thatcher, and is shown engaging with the Judge to be envied by the other kids.",
-            "id": 24.0,
+            "description": "A woman in the town, she is a friend of Aunt Polly. She is mentioned in connection with a dream.",
+            "id": 25.0,
             "names": [
-                "Jeff Thatcher"
+                "Sereny Harper"
             ]
         },
         {
             "names": [
                 "Bob Tanner"
             ],
-            "description": "A boy known in town for having a lot of warts.",
+            "portrait_prompt": "A young boy with a somewhat mischievous appearance. He wears simple clothes and might be holding a bean or have warts on his hands. The setting could be a street or a backyard.",
             "main_character": false,
-            "portrait_prompt": "A young boy, similar in age to Tom, with a plain and unremarkable face. He is wearing simple, everyday clothes of the time, and his background should be a typical village setting. The artistic style should be simple and unassuming.",
-            "id": 25.0,
+            "description": "A boy mentioned in connection with spunk-water and warts.",
+            "id": 26.0,
             "common_name": "Bob Tanner"
         },
         {
-            "common_name": "Jim Hollis",
-            "portrait_prompt": "A boy, like the rest of Tom's companions, dressed in simple, typical wear. His background should be that of the small town. The overall art style should be in keeping with the other character illustrations.",
+            "common_name": "Johnny Baker",
+            "description": "A boy mentioned in connection with spunk-water and warts.",
             "main_character": false,
-            "description": "A boy who tells the story of Bob Tanner's failed attempt to use spunk-water for wart removal.",
-            "id": 26.0,
-            "names": [
-                "Jim Hollis"
-            ]
-        },
-        {
-            "common_name": "Uncle Jake",
-            "description": "A black man who works for Ben Rogers' pap, who is kind to Huck.",
-            "main_character": false,
-            "portrait_prompt": "An older African American man, with a kind and patient face. He is wearing work clothes and the setting would be that of a farm or a simple living quarters. The style should be simple and reflective of historical portrayals of the time.",
+            "portrait_prompt": "A young boy with a simple, ordinary appearance. He wears typical schoolboy clothes. The setting could be a street or a backyard.",
             "id": 27.0,
             "names": [
-                "Uncle Jake"
+                "Johnny Baker"
             ]
         },
         {
             "names": [
-                "Bill Turner"
+                "Jim Hollis"
             ],
-            "portrait_prompt": "A young, pale boy, with a sad expression. He is shown in simple clothing and the background would be the river where he drowned. The style should be more somber to reflect the nature of his death.",
+            "description": "A boy mentioned in connection with spunk-water and warts. He is also seen as a judge in a cat trial.",
             "main_character": false,
-            "description": "A boy who drowned and was the topic of town gossip during the time of his death.",
+            "portrait_prompt": "A young boy with a serious, thoughtful appearance. He wears typical schoolboy clothes. The setting could be a schoolyard or a mock courtroom.",
             "id": 28.0,
-            "common_name": "Bill Turner"
+            "common_name": "Jim Hollis"
         },
         {
-            "names": [
-                "Willie Mufferson"
-            ],
-            "description": "The 'Model Boy' who is hated by all the other boys.",
-            "main_character": false,
-            "portrait_prompt": "A boy dressed in very neat attire, well-groomed and appearing very proper. He is depicted with a perfect white handkerchief showing from his pocket. The setting would be a church and the art style should emphasize his 'model' character.",
-            "id": 29.0,
-            "common_name": "Willie Mufferson"
-        },
-        {
-            "common_name": "Sereny Harper",
-            "description": "Joe Harper's mother.",
-            "main_character": false,
-            "portrait_prompt": "A middle aged woman, with a kind, if somewhat tired looking face. She is dressed in modest attire and is posed in a comfortable, home setting. The art style should reflect her simple, ordinary nature.",
-            "id": 30.0,
-            "names": [
-                "Sereny Harper"
-            ]
-        },
-        {
-            "common_name": "Gracie Miller",
-            "description": "A girl who falls in a fire and is predicted to die.",
-            "main_character": false,
-            "portrait_prompt": "A young, pale girl, with a gentle and innocent face. She has light hair and might be wearing a simple dress. The setting would be ordinary and the art style should be simple.",
-            "id": 31.0,
             "names": [
                 "Gracie Miller"
+            ],
+            "description": "A girl who is mentioned as having an accident and burning herself.",
+            "main_character": false,
+            "portrait_prompt": "A young girl with a simple, ordinary appearance. She wears typical schoolgirl clothes. The setting could be a school or a domestic setting.",
+            "id": 29.0,
+            "common_name": "Gracie Miller"
+        },
+        {
+            "common_name": "Susan Harper",
+            "description": "A girl who is mentioned as being at the picnic.",
+            "main_character": false,
+            "portrait_prompt": "A young girl with a simple, ordinary appearance. She wears typical schoolgirl clothes. The setting could be a school or a picnic setting.",
+            "id": 30.0,
+            "names": [
+                "Susan Harper"
             ]
+        },
+        {
+            "common_name": "Mary Austin",
+            "description": "A girl who is mentioned as being at the picnic.",
+            "main_character": false,
+            "portrait_prompt": "A young girl with a simple, ordinary appearance. She wears typical schoolgirl clothes. The setting could be a school or a picnic setting.",
+            "id": 31.0,
+            "names": [
+                "Mary Austin"
+            ]
+        },
+        {
+            "names": [
+                "Sally Rogers"
+            ],
+            "portrait_prompt": "A young girl with a simple, ordinary appearance. She wears typical schoolgirl clothes. The setting could be a school or a picnic setting.",
+            "main_character": false,
+            "description": "A girl who is mentioned as being at the picnic.",
+            "id": 32.0,
+            "common_name": "Sally Rogers"
+        },
+        {
+            "names": [
+                "Widow Douglas",
+                "the widow"
+            ],
+            "portrait_prompt": "A middle-aged woman with a kind, gentle face and a dignified appearance. She wears elegant but modest clothing. The background could be a well-furnished house or a church setting.",
+            "main_character": false,
+            "description": "A kind and wealthy woman in the town. She is generous and takes Huck under her wing.",
+            "id": 33.0,
+            "common_name": "Widow Douglas"
+        },
+        {
+            "common_name": "Bull Harbison",
+            "description": "A dog that howls outside the tannery.",
+            "main_character": false,
+            "portrait_prompt": "A large, sad-looking dog with drooping ears and a mournful expression. He might be a mixed breed with a shaggy coat. The setting could be a dark street or a run-down building.",
+            "id": 34.0,
+            "names": [
+                "Bull Harbison"
+            ]
+        },
+        {
+            "names": [
+                "Jimmy Hodges"
+            ],
+            "description": "A boy who recently died.",
+            "main_character": false,
+            "portrait_prompt": "A young boy with a pale and peaceful face. He is dressed in simple, modest clothing. The setting could be a graveyard or a quiet, somber room.",
+            "id": 35.0,
+            "common_name": "Jimmy Hodges"
         }
     ]
 }

@@ -1,0 +1,1188 @@
+{
+    "relations": [
+        {
+            "relation": [
+                "mother",
+                "daughter"
+            ],
+            "id1": 1.0,
+            "id2": 2.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "father",
+                "daughter"
+            ],
+            "id1": 1.0,
+            "id2": 3.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "siblings"
+            ],
+            "id1": 1.0,
+            "id2": 4.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "siblings"
+            ],
+            "id2": 5.0,
+            "positivity": 0.8,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id1": 1.0,
+            "id2": 6.0,
+            "positivity": 0.5,
+            "weight": 7.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "nurse",
+                "charge"
+            ],
+            "id2": 7.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "rivals"
+            ],
+            "id1": 1.0,
+            "id2": 8.0,
+            "positivity": -0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "enemies"
+            ],
+            "id1": 1.0,
+            "id2": 12.0,
+            "positivity": -0.9,
+            "weight": 9.0
+        },
+        {
+            "relation": [
+                "married",
+                "partners"
+            ],
+            "id1": 2.0,
+            "id2": 3.0,
+            "positivity": 0.9,
+            "weight": 10.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "mother",
+                "son"
+            ],
+            "id2": 4.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "mother",
+                "son"
+            ],
+            "id1": 2.0,
+            "id2": 5.0,
+            "positivity": 0.9,
+            "weight": 9.0
+        },
+        {
+            "relation": [
+                "father",
+                "son"
+            ],
+            "id1": 3.0,
+            "id2": 4.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 3.0,
+            "relation": [
+                "father",
+                "son"
+            ],
+            "id2": 5.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "brothers"
+            ],
+            "id1": 4.0,
+            "id2": 5.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "friends",
+                "acquaintances"
+            ],
+            "id1": 4.0,
+            "id2": 6.0,
+            "positivity": 0.5,
+            "weight": 6.0
+        },
+        {
+            "id1": 5.0,
+            "relation": [
+                "friends",
+                "acquaintances"
+            ],
+            "id2": 6.0,
+            "positivity": 0.6,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "acquaintances"
+            ],
+            "id1": 6.0,
+            "id2": 7.0,
+            "positivity": 0.6,
+            "weight": 4.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "companions"
+            ],
+            "id2": 8.0,
+            "positivity": 0.8,
+            "weight": 9.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "enemies"
+            ],
+            "id2": 12.0,
+            "positivity": -1.0,
+            "weight": 10.0
+        },
+        {
+            "relation": [
+                "friends",
+                "allies"
+            ],
+            "id1": 6.0,
+            "id2": 22.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "leader",
+                "follower"
+            ],
+            "id2": 24.0,
+            "positivity": 0.6,
+            "weight": 7.0
+        },
+        {
+            "id1": 6.0,
+            "relation": [
+                "leader",
+                "follower"
+            ],
+            "id2": 25.0,
+            "positivity": 0.6,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "leader",
+                "follower"
+            ],
+            "id1": 6.0,
+            "id2": 26.0,
+            "positivity": 0.6,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "leader",
+                "follower"
+            ],
+            "id1": 6.0,
+            "id2": 27.0,
+            "positivity": 0.6,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "leader",
+                "follower"
+            ],
+            "id1": 6.0,
+            "id2": 28.0,
+            "positivity": 0.6,
+            "weight": 7.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 13.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "captain",
+                "bo'sun"
+            ],
+            "id1": 12.0,
+            "id2": 14.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 15.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 16.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 17.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 18.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 19.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 12.0,
+            "id2": 20.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 12.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 21.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 14.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 13.0,
+            "id2": 15.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 13.0,
+            "id2": 16.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 13.0,
+            "id2": 17.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 18.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 19.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 20.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 13.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 14.0,
+            "id2": 15.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 14.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 16.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 14.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 17.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 14.0,
+            "id2": 18.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 14.0,
+            "id2": 19.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 14.0,
+            "id2": 20.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 14.0,
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 15.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 16.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 15.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 17.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 15.0,
+            "id2": 18.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 15.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 19.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 15.0,
+            "id2": 20.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 15.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 17.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 18.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 16.0,
+            "id2": 19.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 16.0,
+            "id2": 20.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 17.0,
+            "id2": 18.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 17.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 19.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 17.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 20.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 17.0,
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 18.0,
+            "id2": 19.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 18.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 20.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 18.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "crewmates"
+            ],
+            "id1": 19.0,
+            "id2": 20.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 19.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 20.0,
+            "relation": [
+                "crewmates"
+            ],
+            "id2": 21.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 22.0,
+            "relation": [
+                "friends",
+                "allies"
+            ],
+            "id2": 6.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 22.0,
+            "relation": [
+                "tribe",
+                "companions"
+            ],
+            "id2": 23.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "id1": 24.0,
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id2": 25.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 24.0,
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id2": 26.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id1": 24.0,
+            "id2": 27.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id1": 24.0,
+            "id2": 28.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 25.0,
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id2": 26.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id1": 25.0,
+            "id2": 27.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 25.0,
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id2": 28.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id1": 26.0,
+            "id2": 27.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 26.0,
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id2": 28.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "relation": [
+                "friends",
+                "companions"
+            ],
+            "id1": 27.0,
+            "id2": 28.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 29.0,
+            "relation": [
+                "daughter",
+                "mother"
+            ],
+            "id2": 1.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "relation": [
+                "friends",
+                "acquaintances"
+            ],
+            "id1": 29.0,
+            "id2": 6.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "friends",
+                "acquaintances"
+            ],
+            "id1": 30.0,
+            "id2": 6.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 30.0,
+            "relation": [
+                "daughter",
+                "mother"
+            ],
+            "id2": 29.0,
+            "positivity": 0.8,
+            "weight": 8.0
+        },
+        {
+            "id1": 34.0,
+            "relation": [
+                "crewmate",
+                "captain"
+            ],
+            "id2": 12.0,
+            "positivity": 0.6,
+            "weight": 6.0
+        },
+        {
+            "id1": 34.0,
+            "relation": [
+                "enemy"
+            ],
+            "id2": 6.0,
+            "positivity": -1.0,
+            "weight": 9.0
+        }
+    ],
+    "characters": [
+        {
+            "names": [
+                "Wendy Moira Angela Darling",
+                "Wendy",
+                "Wendy lady"
+            ],
+            "description": "A young girl who becomes a mother figure to the lost boys in Neverland. She is nurturing, imaginative, and longs for a traditional family life.",
+            "main_character": true,
+            "portrait_prompt": "A young girl with a kind face, long brown hair, wearing a simple nightgown. She has a gentle expression and an air of both innocence and responsibility. Background should include a cozy nursery with soft lighting and books.",
+            "id": 1.0,
+            "common_name": "Wendy"
+        },
+        {
+            "common_name": "Mrs. Darling",
+            "portrait_prompt": "A beautiful, elegant woman with a romantic air, wearing a white nightgown or a dress with a necklace. Her mouth is sweet and mocking, with a single kiss visible. Background should include a warm, dimly lit room with a fireplace and a sewing basket.",
+            "main_character": true,
+            "description": "Wendy's mother, a loving and romantic woman with a sweet, mocking smile. She yearns to keep her children young and has a nightly ritual of tidying their minds.",
+            "id": 2.0,
+            "names": [
+                "Mrs. Darling",
+                "mother"
+            ]
+        },
+        {
+            "names": [
+                "Mr. Darling",
+                "George",
+                "father"
+            ],
+            "portrait_prompt": "A somewhat pompous man with a stern but ultimately kind face, wearing a suit or formal attire with a tie that he struggles to tie. He should have a pencil and paper or a ledger. Background should include a study or office with books and papers.",
+            "main_character": true,
+            "description": "Wendy's father, a practical man who works in the city and is concerned about finances and social standing. Despite his practicality, he has a hidden sentimental side.",
+            "id": 3.0,
+            "common_name": "Mr. Darling"
+        },
+        {
+            "names": [
+                "John"
+            ],
+            "portrait_prompt": "A young boy with a serious expression, wearing a nightgown or pajamas, and sometimes a Sunday hat. He has a neat appearance and an air of practicality. Background should include a bedroom or a flying scene.",
+            "main_character": true,
+            "description": "Wendy's older brother, a practical and somewhat serious boy. He has a logical mind but still enjoys the adventures of Neverland.",
+            "id": 4.0,
+            "common_name": "John"
+        },
+        {
+            "names": [
+                "Michael"
+            ],
+            "portrait_prompt": "A small, innocent-looking boy wearing a nightgown or pajamas, often with a wide-eyed expression. He is sometimes shown in a basket or wigwam. Background should include a playful or dreamlike scene.",
+            "main_character": true,
+            "description": "Wendy's younger brother, a sweet and innocent boy who readily accepts Wendy as his mother. He is very imaginative and enjoys fantastical play.",
+            "id": 5.0,
+            "common_name": "Michael"
+        },
+        {
+            "common_name": "Peter Pan",
+            "portrait_prompt": "A young boy with a mischievous grin, dressed in skeleton leaves and the juices that ooze out of trees, with all his first teeth showing. He has a carefree and somewhat cocky expression. Background should include the Neverland with trees, stars, and a sense of magic.",
+            "main_character": true,
+            "description": "A mischievous and eternally young boy who lives in Neverland and refuses to grow up. He is adventurous, cocky, and fearless, but also somewhat naive about human emotions.",
+            "id": 6.0,
+            "names": [
+                "Peter Pan",
+                "Peter",
+                "The Great White Father"
+            ]
+        },
+        {
+            "common_name": "Nana",
+            "portrait_prompt": "A large, prim Newfoundland dog with a gentle but watchful expression, often wearing a nurse's cap. Background should be a nursery or a garden.",
+            "main_character": true,
+            "description": "The Darling family's nurse, a large Newfoundland dog who is fiercely protective of the children. She is thorough, caring, and has a strong sense of propriety.",
+            "id": 7.0,
+            "names": [
+                "Nana"
+            ]
+        },
+        {
+            "common_name": "Tinker Bell",
+            "description": "A tiny, jealous fairy, who is Peter Pan's companion. She is quick-tempered, mischievous, and fiercely loyal to Peter, though often spiteful towards others.",
+            "main_character": true,
+            "portrait_prompt": "A tiny fairy with a slightly plump figure, wearing a skeleton leaf dress, with a glowing light. Her expression is often mischievous or angry. Background should include a fairy-like setting with flowers or a jug she is hiding in.",
+            "id": 8.0,
+            "names": [
+                "Tink",
+                "Tinker Bell"
+            ]
+        },
+        {
+            "names": [
+                "Miss Fulsom"
+            ],
+            "portrait_prompt": "A stern-looking woman, likely older, with a strict demeanor, wearing formal school attire. Background should be a school room or classroom.",
+            "main_character": false,
+            "description": "The headmistress of the kindergarten where the Darling children attend.",
+            "id": 9.0,
+            "common_name": "Miss Fulsom"
+        },
+        {
+            "common_name": "Liza",
+            "portrait_prompt": "A midget-sized woman with a maid's cap and a long skirt, looking somewhat stern or exasperated. She has a practical, no-nonsense appearance. Background should include a kitchen or a hallway.",
+            "main_character": false,
+            "description": "The Darlings' maid, who is often exasperated by the family's antics. She is practical and has little imagination.",
+            "id": 10.0,
+            "names": [
+                "Liza",
+                "the servants"
+            ]
+        },
+        {
+            "names": [
+                "Napoleon"
+            ],
+            "portrait_prompt": "A short, stout man with a stern expression, wearing a military uniform with a bicorne hat. Background should be a historical setting, perhaps a palace or battlefield.",
+            "main_character": false,
+            "description": "A historical figure mentioned by Wendy, used to illustrate her mother's elusive kiss.",
+            "id": 11.0,
+            "common_name": "Napoleon"
+        },
+        {
+            "common_name": "Hook",
+            "portrait_prompt": "A dark and cadaverous man with long black curls, a blue eye with red spots, and an iron hook for a hand, wearing a Charles II style coat. He has a sinister yet elegant look. Background should be a pirate ship or a dark, moody setting.",
+            "main_character": true,
+            "description": "The main antagonist, a sinister pirate captain with an iron hook for a hand. He is intelligent, elegant, and courageous, but also ruthless and obsessed with revenge against Peter Pan.",
+            "id": 12.0,
+            "names": [
+                "James Hook",
+                "Jas. Hook",
+                "Hook",
+                "captain"
+            ]
+        },
+        {
+            "names": [
+                "Cecco"
+            ],
+            "description": "A handsome Italian pirate, known for his cruelty and his practice of writing his name in blood.",
+            "main_character": false,
+            "portrait_prompt": "A handsome Italian man with a dark, menacing look, with great arms and pieces of eight in his ears. Background should be a pirate ship.",
+            "id": 13.0,
+            "common_name": "Cecco"
+        },
+        {
+            "common_name": "Smee",
+            "description": "An Irish bo'sun in Hook's crew. He is a genial and oddly lovable man, though a pirate. He has spectacles and a somewhat clumsy nature.",
+            "main_character": false,
+            "portrait_prompt": "An Irish man with a genial, somewhat clumsy appearance, with spectacles. He is often shown with a cutlass and a simple, slightly comical expression. Background should be a pirate ship.",
+            "id": 14.0,
+            "names": [
+                "Smee"
+            ]
+        },
+        {
+            "names": [
+                "Gentleman Starkey",
+                "Starkey"
+            ],
+            "portrait_prompt": "A somewhat dainty man wearing pirate attire, with a slight, nervous expression. Background should be a pirate ship.",
+            "main_character": false,
+            "description": "A pirate in Hook's crew, once an usher in a public school. He is often portrayed as being somewhat cowardly.",
+            "id": 15.0,
+            "common_name": "Starkey"
+        },
+        {
+            "common_name": "Bill Jukes",
+            "portrait_prompt": "A heavily tattooed, burly man wearing pirate attire, with a fierce expression. Background should be a pirate ship.",
+            "main_character": false,
+            "description": "A heavily tattooed pirate in Hook's crew, known for his toughness and unwillingness to give up his loot.",
+            "id": 16.0,
+            "names": [
+                "Bill Jukes"
+            ]
+        },
+        {
+            "names": [
+                "Cookson"
+            ],
+            "portrait_prompt": "A rough-looking man wearing pirate attire, with a sinister expression. Background should be a pirate ship.",
+            "main_character": false,
+            "description": "A pirate in Hook's crew, said to be Black Murphy's brother.",
+            "id": 17.0,
+            "common_name": "Cookson"
+        },
+        {
+            "names": [
+                "Skylights",
+                "Morgan's Skylights"
+            ],
+            "portrait_prompt": "A man wearing pirate attire, with a rough and potentially villainous appearance. Background should be a pirate ship.",
+            "main_character": false,
+            "description": "A pirate in Hook's crew.",
+            "id": 18.0,
+            "common_name": "Skylights"
+        },
+        {
+            "names": [
+                "Noodler"
+            ],
+            "portrait_prompt": "A man with backwards hands, wearing pirate attire, with a somewhat strange appearance. Background should be a pirate ship.",
+            "main_character": false,
+            "description": "A pirate in Hook's crew, known for having his hands fixed on backwards.",
+            "id": 19.0,
+            "common_name": "Noodler"
+        },
+        {
+            "names": [
+                "Robt. Mullins"
+            ],
+            "portrait_prompt": "A man wearing pirate attire, with a rough and potentially villainous appearance. Background should be a pirate ship.",
+            "main_character": false,
+            "description": "A pirate in Hook's crew.",
+            "id": 20.0,
+            "common_name": "Robt. Mullins"
+        },
+        {
+            "common_name": "Alf Mason",
+            "portrait_prompt": "A man wearing pirate attire, with a rough and potentially villainous appearance. Background should be a pirate ship.",
+            "main_character": false,
+            "description": "A pirate in Hook's crew.",
+            "id": 21.0,
+            "names": [
+                "Alf Mason"
+            ]
+        },
+        {
+            "names": [
+                "Tiger Lily",
+                "princess"
+            ],
+            "description": "A proud and beautiful Piccaninny princess, the daughter of a chief. She is brave, fierce, and has a complex relationship with Peter Pan.",
+            "main_character": true,
+            "portrait_prompt": "A beautiful Native American woman with a fierce and proud look, often with face paint, and wearing traditional attire. Background should include the Neverland forest or a redskin camp.",
+            "id": 22.0,
+            "common_name": "Tiger Lily"
+        },
+        {
+            "names": [
+                "Great Big Little Panther"
+            ],
+            "portrait_prompt": "A Native American warrior with a fierce expression, covered in scalps and war paint. Background should be a redskin camp.",
+            "main_character": false,
+            "description": "A brave Piccaninny warrior with many scalps.",
+            "id": 23.0,
+            "common_name": "Great Big Little Panther"
+        },
+        {
+            "common_name": "Tootles",
+            "portrait_prompt": "A lost boy with a gentle, melancholy expression, often wearing bear skins. He is usually depicted as slightly clumsy or sad. Background should include the Lost Boys' home or a forest.",
+            "main_character": true,
+            "description": "A lost boy, the most unfortunate and humble of the group. He is gentle and kind, but often overlooked. He is often clumsy or unlucky.",
+            "id": 24.0,
+            "names": [
+                "Tootles"
+            ]
+        },
+        {
+            "common_name": "Nibs",
+            "portrait_prompt": "A lost boy with a cheerful, upbeat appearance, often wearing bear skins. He is usually shown as playful and active. Background should include the Lost Boys' home or a forest.",
+            "main_character": true,
+            "description": "A lost boy, known for his gay and debonair nature. He is one of the more adventurous and outgoing boys.",
+            "id": 25.0,
+            "names": [
+                "Nibs"
+            ]
+        },
+        {
+            "common_name": "Slightly",
+            "portrait_prompt": "A lost boy with a slightly conceited look, often wearing bear skins. He is usually shown as having an air of superiority. Background should include the Lost Boys' home or a forest.",
+            "main_character": true,
+            "description": "A conceited lost boy who thinks he remembers the days before he was lost. He is known for his offensive tilt of the nose.",
+            "id": 26.0,
+            "names": [
+                "Slightly"
+            ]
+        },
+        {
+            "names": [
+                "Curly"
+            ],
+            "description": "A lost boy, known for being a bit of a 'pickle' and often has to take responsibility when Peter asks who did something.",
+            "main_character": true,
+            "portrait_prompt": "A lost boy with a mischievous expression, often wearing bear skins. He is usually shown as getting into trouble. Background should include the Lost Boys' home or a forest.",
+            "id": 27.0,
+            "common_name": "Curly"
+        },
+        {
+            "common_name": "The Twins",
+            "portrait_prompt": "Two identical lost boys, often wearing bear skins, and staying close together with an apologetic expression. Background should include the Lost Boys' home or a forest.",
+            "main_character": true,
+            "description": "Two identical lost boys who are inseparable and often vague about themselves.",
+            "id": 28.0,
+            "names": [
+                "The Twins"
+            ]
+        },
+        {
+            "common_name": "Jane",
+            "portrait_prompt": "A young girl with a curious expression, often in a nightgown, and looking towards the sky. She is shown as imaginative and interested in stories. Background should be a nursery or a night sky.",
+            "main_character": false,
+            "description": "Wendy's daughter, a curious and imaginative girl who is fascinated by Peter Pan.",
+            "id": 29.0,
+            "names": [
+                "Jane"
+            ]
+        },
+        {
+            "common_name": "Margaret",
+            "portrait_prompt": "A young girl, similar to Jane, with a sense of adventure and wonder, and wearing a nightgown or simple dress. Background should be a nursery or a magical sky.",
+            "main_character": false,
+            "description": "Jane's daughter, who continues the tradition of going to Neverland with Peter Pan for spring cleaning.",
+            "id": 30.0,
+            "names": [
+                "Margaret"
+            ]
+        },
+        {
+            "common_name": "Barbecue",
+            "portrait_prompt": "A fearsome pirate with a menacing look, wearing traditional pirate attire, and likely holding a weapon. Background should be a ship or pirate setting.",
+            "main_character": false,
+            "description": "A pirate whom Hook was said to have brought to heel. Mentioned in passing.",
+            "id": 31.0,
+            "names": [
+                "Barbecue"
+            ]
+        },
+        {
+            "common_name": "Black Murphy",
+            "portrait_prompt": "A dark and villainous-looking man, wearing pirate attire and looking sinister. Background should be a pirate ship or a tavern.",
+            "main_character": false,
+            "description": "A pirate who is said to be Cookson's brother.",
+            "id": 32.0,
+            "names": [
+                "Black Murphy"
+            ]
+        },
+        {
+            "names": [
+                "Flint"
+            ],
+            "description": "A pirate who was said to have been feared by Barbecue.",
+            "main_character": false,
+            "portrait_prompt": "A fearsome pirate with a menacing look, wearing traditional pirate attire, and likely holding a weapon. Background should be a ship or pirate setting.",
+            "id": 33.0,
+            "common_name": "Flint"
+        },
+        {
+            "names": [
+                "Ed Teynte"
+            ],
+            "description": "A quartermaster on the Jolly Roger who is killed by Peter Pan.",
+            "main_character": false,
+            "portrait_prompt": "A pirate with a standard pirate appearance, wearing pirate attire, and a rough look. Background should be a ship or pirate setting.",
+            "id": 34.0,
+            "common_name": "Ed Teynte"
+        }
+    ]
+}

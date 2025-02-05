@@ -85,5 +85,5 @@ data/
 
 ## Example Output
 
-[Peter Pan](https://github.com/suvakov/chargraph/blob/main/data/peter_pan_9.json)
+[Peter Pan](https://github.com/suvakov/chargraph/blob/main/data/peter_9.json)
 

@@ -45,6 +45,7 @@ All text files were downloaded from [Project Gutenberg](https://www.gutenberg.or
 - Multiple copies of a book, when possible to fit in the prompt (-cp option), don't help a lot; in some cases with a large number of copies (5-10), they even make results worse
 
 ## Things to Try
+- Improve prompt
 - Test other large context window models
 - Find 'ground truth' character networks using more sophisticated analysis and use it as benchmark for large context models
 - Try it on legal documents (affidavits, indictments), historical documents and movie/TV show scripts

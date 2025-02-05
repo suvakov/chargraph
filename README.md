@@ -4,8 +4,10 @@
 Let's try a small experiment with LLMs: feed an entire book into the context window and ask it to generate a list of characters, their relationships, and physical descriptions—data that can later be used for image generation.
 
 ## TL;DR
-Jump directly to [visualisation](https://suvakov.github.io/chargraph/) to explore character networks from few books extracted using Gemini 2.0 Flash Exp.
+Jump directly to [visualisation](https://suvakov.github.io/chargraph/) to explore character networks from few books extracted using Gemini 2.0 Flash Exp:
 
+
+[![visualisation](snapshot.png)](https://suvakov.github.io/chargraph/)
 
 ## Process
 1. Script chargraph.py is used to extract characters and relationships.

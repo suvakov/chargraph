@@ -27,12 +27,16 @@ Jump directly to [visualisation](https://suvakov.github.io/chargraph/) to explor
     - Free of charge (you can get API key from [AI Studio](https://aistudio.google.com))
 
 ## Books Processed
-- The Adventures of Tom Sawyer – Mark Twain (102,181 tokens)
-- Peter Pan – J. M. Barrie (65,530 tokens)
-- The Idiot – Fyodor Dostoyevsky (339,041 tokens)
-- Anna Karenina – Leo Tolstoy (486,537 tokens)
-- Les Misérables – Victor Hugo (783,912 tokens)
-For all of them I downloaded txt files from [Project Guttenberg](https://www.gutenberg.org/).
+
+    | Book Title | Author | Tokens |
+    |------------|---------|---------|
+    | The Adventures of Tom Sawyer | Mark Twain | 102,181 |
+    | Peter Pan | J. M. Barrie | 65,530 |
+    | The Idiot | Fyodor Dostoyevsky | 339,041 |
+    | Anna Karenina | Leo Tolstoy | 486,537 |
+    | Les Misérables | Victor Hugo | 783,912 |
+
+    All text files were downloaded from [Project Gutenberg](https://www.gutenberg.org/).
 
 ## Some Observations
 - Smaller books process surprisingly well
@@ -43,8 +47,8 @@ For all of them I downloaded txt files from [Project Guttenberg](https://www.gut
 
 ## Things to Try
 - Test other large context window models
-- Define 'ground truth' character networks using more sophisticated analysis and use it as benchmark for huge context models
-- Try it on legal documents (affidavits, indictments, depositions), historical documents and movie/TV show scripts
+- Find 'ground truth' character networks using more sophisticated analysis and use it as benchmark for large context models
+- Try it on legal documents (affidavits, indictments), historical documents and movie/TV show scripts
 
 ## Disclaimer
 This is not an attempt to determine the best method for extracting characters and relationships from books. A more effective approach would likely involve processing the text in segments and extracting different types of information in separate steps. The goal here is simply to explore the limits of LLMs when given an entire book in a single prompt.

@@ -1,0 +1,1186 @@
+{
+    "relations": [
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 1.0,
+            "id2": 2.0,
+            "positivity": 0.8,
+            "weight": 10.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "servant"
+            ],
+            "id2": 3.0,
+            "positivity": 0.5,
+            "weight": 8.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 5.0,
+            "positivity": 0.6,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 1.0,
+            "id2": 6.0,
+            "positivity": 0.3,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 4.0,
+            "id2": 7.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 4.0,
+            "id2": 8.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 4.0,
+            "id2": 9.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 10.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 4.0,
+            "id2": 11.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 4.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 12.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 4.0,
+            "id2": 13.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 14.0,
+            "positivity": 0.0,
+            "weight": 3.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "political"
+            ],
+            "id2": 15.0,
+            "positivity": -0.5,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 1.0,
+            "id2": 17.0,
+            "positivity": 0.0,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintance",
+                "relative"
+            ],
+            "id2": 20.0,
+            "positivity": 0.1,
+            "weight": 3.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 1.0,
+            "id2": 21.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "begging"
+            ],
+            "id1": 1.0,
+            "id2": 22.0,
+            "positivity": -0.2,
+            "weight": 2.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "met"
+            ],
+            "id2": 23.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "met"
+            ],
+            "id2": 24.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "met"
+            ],
+            "id2": 25.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 1.0,
+            "id2": 26.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 27.0,
+            "relation": [
+                "saved"
+            ],
+            "id2": 1.0,
+            "positivity": 0.9,
+            "weight": 7.0
+        },
+        {
+            "relation": [
+                "opposition"
+            ],
+            "id1": 27.0,
+            "id2": 17.0,
+            "positivity": -0.3,
+            "weight": 3.0
+        },
+        {
+            "id1": 30.0,
+            "relation": [
+                "caretaker",
+                "served"
+            ],
+            "id2": 29.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "met",
+                "discussed"
+            ],
+            "id2": 30.0,
+            "positivity": 0.4,
+            "weight": 5.0
+        },
+        {
+            "id1": 20.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 52.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 20.0,
+            "relation": [
+                "family"
+            ],
+            "id2": 26.0,
+            "positivity": 0.7,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 45.0,
+            "id2": 46.0,
+            "positivity": 0.7,
+            "weight": 4.0
+        },
+        {
+            "relation": [
+                "family"
+            ],
+            "id1": 52.0,
+            "id2": 20.0,
+            "positivity": 0.7,
+            "weight": 7.0
+        },
+        {
+            "id1": 44.0,
+            "relation": [
+                "met"
+            ],
+            "id2": 39.0,
+            "positivity": -0.2,
+            "weight": 2.0
+        },
+        {
+            "id1": 39.0,
+            "relation": [
+                "caretaker"
+            ],
+            "id2": 43.0,
+            "positivity": 0.5,
+            "weight": 5.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 44.0,
+            "id2": 40.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 40.0,
+            "relation": [
+                "met"
+            ],
+            "id2": 41.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 40.0,
+            "id2": 42.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 44.0,
+            "relation": [
+                "opposition"
+            ],
+            "id2": 54.0,
+            "positivity": -0.1,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 16.0,
+            "id2": 58.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 59.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 16.0,
+            "id2": 60.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 16.0,
+            "id2": 61.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 16.0,
+            "relation": [
+                "opposition"
+            ],
+            "id2": 62.0,
+            "positivity": -0.2,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 16.0,
+            "id2": 63.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "opposition"
+            ],
+            "id1": 16.0,
+            "id2": 64.0,
+            "positivity": -0.2,
+            "weight": 2.0
+        },
+        {
+            "relation": [
+                "acquaintance"
+            ],
+            "id1": 1.0,
+            "id2": 65.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "acquaintance"
+            ],
+            "id2": 66.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "opposition",
+                "philosophical"
+            ],
+            "id1": 1.0,
+            "id2": 67.0,
+            "positivity": -0.1,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "opposition",
+                "philosophical"
+            ],
+            "id1": 1.0,
+            "id2": 68.0,
+            "positivity": -0.1,
+            "weight": 1.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "opposition",
+                "philosophical"
+            ],
+            "id2": 69.0,
+            "positivity": -0.1,
+            "weight": 1.0
+        },
+        {
+            "id1": 27.0,
+            "relation": [
+                "saved"
+            ],
+            "id2": 44.0,
+            "positivity": 0.9,
+            "weight": 8.0
+        },
+        {
+            "id1": 2.0,
+            "relation": [
+                "friend"
+            ],
+            "id2": 45.0,
+            "positivity": 0.7,
+            "weight": 6.0
+        },
+        {
+            "id1": 1.0,
+            "relation": [
+                "met"
+            ],
+            "id2": 45.0,
+            "positivity": 0.1,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 1.0,
+            "id2": 46.0,
+            "positivity": 0.1,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "met"
+            ],
+            "id1": 39.0,
+            "id2": 44.0,
+            "positivity": -0.2,
+            "weight": 2.0
+        },
+        {
+            "id1": 50.0,
+            "relation": [
+                "philosophical"
+            ],
+            "id2": 32.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "philosophical"
+            ],
+            "id1": 50.0,
+            "id2": 1.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "philosophical"
+            ],
+            "id1": 50.0,
+            "id2": 67.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "philosophical"
+            ],
+            "id1": 50.0,
+            "id2": 68.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        },
+        {
+            "relation": [
+                "philosophical"
+            ],
+            "id1": 50.0,
+            "id2": 69.0,
+            "positivity": 0.0,
+            "weight": 1.0
+        }
+    ],
+    "characters": [
+        {
+            "common_name": "M. Charles-François-Bienvenu Myriel",
+            "description": "Bishop of D. He is known for his kindness, generosity, and piety. He was devoted to the world and to gallantry in his youth, but the Revolution and the death of his wife led him to become a priest.",
+            "main_character": true,
+            "id": 1.0,
+            "names": [
+                "M. Charles-François-Bienvenu Myriel",
+                "M. Myriel",
+                "Charles Myriel",
+                "Monseigneur Bienvenu",
+                "Monsieur the Bishop",
+                "Monseigneur Welcome",
+                "M. Bienvenu"
+            ]
+        },
+        {
+            "names": [
+                "Mademoiselle Baptistine"
+            ],
+            "description": "M. Myriel’s elder sister, a spinster ten years his junior. She is a long, pale, thin, gentle creature, who has devoted her life to holy deeds and acquired the beauty of goodness.",
+            "main_character": false,
+            "id": 2.0,
+            "common_name": "Mademoiselle Baptistine"
+        },
+        {
+            "names": [
+                "Madame Magloire"
+            ],
+            "description": "The female servant of M. Myriel. She is a little, fat, white old woman, corpulent and bustling.",
+            "main_character": false,
+            "id": 3.0,
+            "common_name": "Madame Magloire"
+        },
+        {
+            "names": [
+                "M. Henri Puget",
+                "Henri Puget"
+            ],
+            "description": "Doctor of Theology of the Faculty of Paris, Abbé of Simore, who had been Bishop of D in 1712.",
+            "main_character": false,
+            "id": 4.0,
+            "common_name": "M. Henri Puget"
+        },
+        {
+            "common_name": "M. le Cardinal Fesch",
+            "description": "Uncle of the Emperor Napoleon, who aided M. Myriel in becoming Bishop of D.",
+            "main_character": false,
+            "id": 5.0,
+            "names": [
+                "M. le Cardinal Fesch",
+                "the Cardinal"
+            ]
+        },
+        {
+            "common_name": "Napoleon",
+            "description": "The Emperor of France who spoke to M. Myriel.",
+            "main_character": false,
+            "id": 6.0,
+            "names": [
+                "Napoleon",
+                "The Emperor",
+                "His Majesty",
+                "Sire"
+            ]
+        },
+        {
+            "common_name": "Charles Brûlart de Genlis",
+            "description": "Archbishop who was entertained by M. Henri Puget.",
+            "main_character": false,
+            "id": 7.0,
+            "names": [
+                "Charles Brûlart de Genlis",
+                "My Lord Charles Brûlart de Genlis",
+                "archbishop"
+            ]
+        },
+        {
+            "common_name": "Prince d’Embrun",
+            "description": "A reverend personage who was entertained by M. Henri Puget.",
+            "main_character": false,
+            "id": 8.0,
+            "names": [
+                "Prince d’Embrun",
+                "My Lord Prince d’Embrun"
+            ]
+        },
+        {
+            "names": [
+                "Antoine de Mesgrigny",
+                "My Lord Antoine de Mesgrigny"
+            ],
+            "description": "The capuchin, Bishop of Grasse, who was entertained by M. Henri Puget.",
+            "main_character": false,
+            "id": 9.0,
+            "common_name": "Antoine de Mesgrigny"
+        },
+        {
+            "common_name": "Philippe de Vendôme",
+            "description": "Grand Prior of France, Abbé of Saint Honoré de Lérins, who was entertained by M. Henri Puget.",
+            "main_character": false,
+            "id": 10.0,
+            "names": [
+                "Philippe de Vendôme",
+                "My Lord Philippe de Vendôme"
+            ]
+        },
+        {
+            "common_name": "François de Berton de Crillon",
+            "description": "Bishop, Baron de Vence, who was entertained by M. Henri Puget.",
+            "main_character": false,
+            "id": 11.0,
+            "names": [
+                "François de Berton de Crillon",
+                "My Lord François de Berton de Crillon"
+            ]
+        },
+        {
+            "common_name": "César de Sabran de Forcalquier",
+            "description": "Bishop, Seignor of Glandève, who was entertained by M. Henri Puget.",
+            "main_character": false,
+            "id": 12.0,
+            "names": [
+                "César de Sabran de Forcalquier",
+                "My Lord César de Sabran de Forcalquier"
+            ]
+        },
+        {
+            "common_name": "Jean Soanen",
+            "description": "Priest of the Oratory, preacher in ordinary to the king, bishop, Seignor of Senez, who was entertained by M. Henri Puget.",
+            "main_character": false,
+            "id": 13.0,
+            "names": [
+                "Jean Soanen",
+                "My Lord Jean Soanen"
+            ]
+        },
+        {
+            "names": [
+                "The director of the hospital",
+                "Monsieur the director"
+            ],
+            "description": "The director of the hospital that was beside the episcopal palace.",
+            "main_character": false,
+            "id": 14.0,
+            "common_name": "The director of the hospital"
+        },
+        {
+            "common_name": "M. Bigot de Prémeneu",
+            "description": "The minister of public worship to whom a senator wrote a confidential note.",
+            "main_character": false,
+            "id": 15.0,
+            "names": [
+                "M. Bigot de Prémeneu",
+                "M. le Comte",
+                "Minister of Public Worship"
+            ]
+        },
+        {
+            "common_name": "Senator of the Empire",
+            "description": "A former member of the Council of the Five Hundred, who wrote to M. Bigot de Prémeneu.",
+            "main_character": false,
+            "id": 16.0,
+            "names": [
+                "Senator of the Empire",
+                "Count***",
+                "the senator"
+            ]
+        },
+        {
+            "names": [
+                "Mayor",
+                "Monsieur the Mayor"
+            ],
+            "description": "The Mayor of Senez.",
+            "main_character": false,
+            "id": 17.0,
+            "common_name": "Mayor"
+        },
+        {
+            "names": [
+                "Jesus Christ",
+                "Jesus",
+                "Christ"
+            ],
+            "description": "The son of God who rode an ass.",
+            "main_character": false,
+            "id": 18.0,
+            "common_name": "Jesus Christ"
+        },
+        {
+            "common_name": "St. Augustine",
+            "description": "A Saint whose writing was quoted by the Bishop.",
+            "main_character": false,
+            "id": 19.0,
+            "names": [
+                "St. Augustine"
+            ]
+        },
+        {
+            "names": [
+                "Madame la Comtesse de Lô"
+            ],
+            "description": "A distant relative of the Bishop, who often boasted about her sons' expectations.",
+            "main_character": false,
+            "id": 20.0,
+            "common_name": "Madame la Comtesse de Lô"
+        },
+        {
+            "names": [
+                "M. Géborand"
+            ],
+            "description": "A wealthy retired merchant who gave a sou to the poor.",
+            "main_character": false,
+            "id": 21.0,
+            "common_name": "M. Géborand"
+        },
+        {
+            "names": [
+                "Marquis de Champtercier",
+                "M. le Marquis"
+            ],
+            "description": "A wealthy and avaricious old man who refused the Bishop's charity.",
+            "main_character": false,
+            "id": 22.0,
+            "common_name": "Marquis de Champtercier"
+        },
+        {
+            "common_name": "a youthful vicar",
+            "description": "A vicar who came to D, and preached in the cathedral.",
+            "main_character": false,
+            "id": 23.0,
+            "names": [
+                "a youthful vicar"
+            ]
+        },
+        {
+            "common_name": "Abbé of Chaliot",
+            "description": "Bishop of Saint Claude; a portrait of whom was kept in the Bishop's bedroom.",
+            "main_character": false,
+            "id": 24.0,
+            "names": [
+                "Abbé of Chaliot"
+            ]
+        },
+        {
+            "common_name": "Abbé Tourteau",
+            "description": "Vicar-general of Agde, abbé of Grand-Champ, order of Cîteaux; a portrait of whom was kept in the Bishop's bedroom.",
+            "main_character": false,
+            "id": 25.0,
+            "names": [
+                "Abbé Tourteau"
+            ]
+        },
+        {
+            "names": [
+                "Madame the Vicomtess de Boischevron"
+            ],
+            "description": "Mademoiselle Baptistine's friend, to whom she writes a letter.",
+            "main_character": false,
+            "id": 26.0,
+            "common_name": "Madame the Vicomtess de Boischevron"
+        },
+        {
+            "names": [
+                "Cravatte"
+            ],
+            "description": "A lieutenant of Gaspard B, who took refuge in the mountains.",
+            "main_character": false,
+            "id": 27.0,
+            "common_name": "Cravatte"
+        },
+        {
+            "names": [
+                "Gaspard B"
+            ],
+            "description": "The leader of a band of robbers.",
+            "main_character": false,
+            "id": 28.0,
+            "common_name": "Gaspard B"
+        },
+        {
+            "common_name": "A child",
+            "description": "A shepherd boy who serves the member of the Convention.",
+            "main_character": false,
+            "id": 29.0,
+            "names": [
+                "A child",
+                "the shepherd lad"
+            ]
+        },
+        {
+            "common_name": "Member of the Convention G",
+            "description": "A former member of the Convention, living in solitude near D. He did not vote for the death of the king. He dies during the Bishop's visit.",
+            "main_character": false,
+            "id": 30.0,
+            "names": [
+                "Member of the Convention G",
+                "the old man",
+                "Member of the Convention",
+                "G"
+            ]
+        },
+        {
+            "names": [
+                "de Maistre"
+            ],
+            "description": "A person who admires the guillotine.",
+            "main_character": false,
+            "id": 31.0,
+            "common_name": "de Maistre"
+        },
+        {
+            "names": [
+                "Beccaria"
+            ],
+            "description": "A person who execrates the guillotine.",
+            "main_character": false,
+            "id": 32.0,
+            "common_name": "Beccaria"
+        },
+        {
+            "common_name": "Lord Germain",
+            "description": "Whose correspondence is examined by the Bishop.",
+            "main_character": false,
+            "id": 33.0,
+            "names": [
+                "Lord Germain"
+            ]
+        },
+        {
+            "names": [
+                "Generals Clinton, Cornwallis, and the Admirals on the American station"
+            ],
+            "description": "Whose correspondence is examined by the Bishop.",
+            "main_character": false,
+            "id": 34.0,
+            "common_name": "Generals Clinton, Cornwallis, and the Admirals on the American station"
+        },
+        {
+            "names": [
+                "Hugo"
+            ],
+            "description": "Bishop of Ptolemaïs, great-grand-uncle to the writer of the book.",
+            "main_character": false,
+            "id": 35.0,
+            "common_name": "Hugo"
+        },
+        {
+            "names": [
+                "Barleycourt"
+            ],
+            "description": "A pseudonym under which Bishop Hugo published his works.",
+            "main_character": false,
+            "id": 36.0,
+            "common_name": "Barleycourt"
+        },
+        {
+            "common_name": "curé of Couloubroux",
+            "description": "A priest who asked the Bishop about leaving his door unfastened day and night.",
+            "main_character": false,
+            "id": 37.0,
+            "names": [
+                "curé of Couloubroux"
+            ]
+        },
+        {
+            "names": [
+                "curé of Pompierry"
+            ],
+            "description": "A priest who asked the Bishop about leaving his door unfastened day and night.",
+            "main_character": false,
+            "id": 38.0,
+            "common_name": "curé of Pompierry"
+        },
+        {
+            "names": [
+                "M. Jacquin Labarre",
+                "Jacquin Labarre"
+            ],
+            "description": "The landlord of the Cross of Colbas inn.",
+            "main_character": false,
+            "id": 39.0,
+            "common_name": "M. Jacquin Labarre"
+        },
+        {
+            "names": [
+                "Labarre"
+            ],
+            "description": "The inn keeper of the Three Dolphins in Grenoble.",
+            "main_character": false,
+            "id": 40.0,
+            "common_name": "Labarre"
+        },
+        {
+            "common_name": "General Bertrand",
+            "description": "A general who was said to have visited the inn of the Three Dolphins.",
+            "main_character": false,
+            "id": 41.0,
+            "names": [
+                "General Bertrand"
+            ]
+        },
+        {
+            "names": [
+                "General Drouot"
+            ],
+            "description": "A General who stood on a stone bench at the townhall.",
+            "main_character": false,
+            "id": 42.0,
+            "common_name": "General Drouot"
+        },
+        {
+            "common_name": "A child who served him in the capacity both of scullion and lackey",
+            "description": "The child of the Cross of Colbas inn who ran errands for the host.",
+            "main_character": false,
+            "id": 43.0,
+            "names": [
+                "A child who served him in the capacity both of scullion and lackey",
+                "the scullion"
+            ]
+        },
+        {
+            "names": [
+                "Jean Valjean",
+                "Number 24,601",
+                "M. Madeleine"
+            ],
+            "description": "A convict who has been in the galleys for nineteen years. He is traveling on foot. Later, he is known as M. Madeleine, and is the mayor of D. He is also a saviour of Cosette and Marius, a man of many talents and identities.",
+            "main_character": true,
+            "id": 44.0,
+            "common_name": "Jean Valjean"
+        },
+        {
+            "common_name": "Madame the Vicomtess de Boischevron",
+            "description": "Friend of Mademoiselle Baptistine's childhood, to whom she writes.",
+            "main_character": false,
+            "id": 45.0,
+            "names": [
+                "Madame the Vicomtess de Boischevron"
+            ]
+        },
+        {
+            "names": [
+                "Sylvanie"
+            ],
+            "description": "Dear grand niece of Madame the Vicomtess de Boischevron.",
+            "main_character": false,
+            "id": 46.0,
+            "common_name": "Sylvanie"
+        },
+        {
+            "common_name": "Member of the Convention G",
+            "description": "A former member of the Convention, living alone in a hovel. He discusses the Revolution with the Bishop before dying.",
+            "main_character": false,
+            "id": 47.0,
+            "names": [
+                "Member of the Convention G",
+                "the member of the Convention"
+            ]
+        },
+        {
+            "names": [
+                "Mousqueton"
+            ],
+            "description": "A person who is said to have a beautiful face.",
+            "main_character": false,
+            "id": 48.0,
+            "common_name": "Mousqueton"
+        },
+        {
+            "common_name": "Claude",
+            "description": "A person who is said to have a majestic mien.",
+            "main_character": false,
+            "id": 49.0,
+            "names": [
+                "Claude"
+            ]
+        },
+        {
+            "names": [
+                "de Maistre"
+            ],
+            "description": "A person who admires the guillotine.",
+            "main_character": false,
+            "id": 50.0,
+            "common_name": "de Maistre"
+        },
+        {
+            "names": [
+                "Lord Germain"
+            ],
+            "description": "A person whose correspondence the Bishop was examining.",
+            "main_character": false,
+            "id": 51.0,
+            "common_name": "Lord Germain"
+        },
+        {
+            "names": [
+                "Madame la Comtesse de Lô's three sons",
+                "her three sons"
+            ],
+            "description": "The sons of Madame la Comtesse de L, each of whom had an expectation.",
+            "main_character": false,
+            "id": 52.0,
+            "common_name": "Madame la Comtesse de Lô's three sons"
+        },
+        {
+            "names": [
+                "The attorney for the crown"
+            ],
+            "description": "The attorney for the crown who invented an infidelity to persuade a woman to denounce her lover.",
+            "main_character": false,
+            "id": 53.0,
+            "common_name": "The attorney for the crown"
+        },
+        {
+            "common_name": "Curé",
+            "description": "The curé who refused to attend the condemned man.",
+            "main_character": false,
+            "id": 54.0,
+            "names": [
+                "Curé",
+                "Monsieur le Curé"
+            ]
+        },
+        {
+            "common_name": "Louis XVII",
+            "description": "A royal child.",
+            "main_character": false,
+            "id": 55.0,
+            "names": [
+                "Louis XVII"
+            ]
+        },
+        {
+            "common_name": "Cartouche",
+            "description": "A criminal who was hung in the Place de Grève.",
+            "main_character": false,
+            "id": 56.0,
+            "names": [
+                "Cartouche"
+            ]
+        },
+        {
+            "common_name": "Azrael",
+            "description": "The Mohammedan angel of the sepulchre.",
+            "main_character": false,
+            "id": 57.0,
+            "names": [
+                "Azrael"
+            ]
+        },
+        {
+            "names": [
+                "M. Naigeon",
+                "Naigeon"
+            ],
+            "description": "A philosopher in the Senator's library.",
+            "main_character": false,
+            "id": 58.0,
+            "common_name": "M. Naigeon"
+        },
+        {
+            "common_name": "Marquis d'Argens",
+            "description": "A philosopher in the Senator's library.",
+            "main_character": false,
+            "id": 59.0,
+            "names": [
+                "Marquis d'Argens"
+            ]
+        },
+        {
+            "common_name": "Pyrrhon",
+            "description": "A philosopher in the Senator's library.",
+            "main_character": false,
+            "id": 60.0,
+            "names": [
+                "Pyrrhon"
+            ]
+        },
+        {
+            "common_name": "Hobbes",
+            "description": "A philosopher in the Senator's library.",
+            "main_character": false,
+            "id": 61.0,
+            "names": [
+                "Hobbes"
+            ]
+        },
+        {
+            "names": [
+                "Diderot"
+            ],
+            "description": "An ideologist, a declaimer, and a revolutionist, who was disliked by the Senator.",
+            "main_character": false,
+            "id": 62.0,
+            "common_name": "Diderot"
+        },
+        {
+            "names": [
+                "Needham"
+            ],
+            "description": "A philosopher who was made sport of by Voltaire.",
+            "main_character": false,
+            "id": 63.0,
+            "common_name": "Needham"
+        },
+        {
+            "names": [
+                "Voltaire"
+            ],
+            "description": "A philosopher who made sport of Needham, but who was more bigoted than Diderot according to the Senator.",
+            "main_character": false,
+            "id": 64.0,
+            "common_name": "Voltaire"
+        },
+        {
+            "common_name": "Tertullian",
+            "description": "A philosopher who said that the blessed shall travel from star to star.",
+            "main_character": false,
+            "id": 65.0,
+            "names": [
+                "Tertullian"
+            ]
+        },
+        {
+            "names": [
+                "Adam"
+            ],
+            "description": "The biblical first man.",
+            "main_character": false,
+            "id": 66.0,
+            "common_name": "Adam"
+        },
+        {
+            "common_name": "Cato",
+            "description": "A person who stupidly allowed himself to be exiled for nothing according to the Bishop.",
+            "main_character": false,
+            "id": 67.0,
+            "names": [
+                "Cato"
+            ]
+        },
+        {
+            "common_name": "Stephen",
+            "description": "A person who stupidly allowed himself to be stoned to death according to the Bishop.",
+            "main_character": false,
+            "id": 68.0,
+            "names": [
+                "Stephen"
+            ]
+        },
+        {
+            "names": [
+                "Jeanne d'Arc"
+            ],
+            "description": "A person who stupidly allowed herself to be burned alive according to the Bishop.",
+            "main_character": false,
+            "id": 69.0,
+            "common_name": "Jeanne d'Arc"
+        }
+    ]
+}

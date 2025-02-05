@@ -14,7 +14,7 @@ Jump directly to [visualisation](https://suvakov.github.io/chargraph/) to explor
     - Check [documentation](chargraph.md) how to run it
     - It supports Gemini and OpenRouter API
 2. (Optional) Character images were generated using portrait_prompt from JSON.
-    - I used Stable Diffusion 3.5 in [Google Colab](https://colab.research.google.com/drive/18-cI6RDPRQ6yiflSWAe1QSfFK6A8-i1_?usp=sharing).
+    - I used Stable Diffusion 3.5 in [Google Colab](https://colab.research.google.com/drive/18-cI6RDPRQ6yiflSWAe1QSfFK6A8-i1_?usp=sharing) for Peter Pan and Tom Sawyer.
 3. Results are visualized in HTML/JS using D3.
     - Check [documentation](visualization.md) how to add your books in visualisation 📖
 
@@ -28,22 +28,21 @@ Jump directly to [visualisation](https://suvakov.github.io/chargraph/) to explor
 
 ## Books Processed
 
-    | Book Title | Author | Tokens |
-    |------------|---------|---------|
-    | The Adventures of Tom Sawyer | Mark Twain | 102,181 |
-    | Peter Pan | J. M. Barrie | 65,530 |
-    | The Idiot | Fyodor Dostoyevsky | 339,041 |
-    | Anna Karenina | Leo Tolstoy | 486,537 |
-    | Les Misérables | Victor Hugo | 783,912 |
+| Book Title | Author | Tokens |
+|-----------|-------|-------|
+| The Adventures of Tom Sawyer | Mark Twain | 102,181 |
+| Peter Pan | J. M. Barrie | 65,530 |
+| The Idiot | Fyodor Dostoyevsky | 339,041 |
+| Anna Karenina | Leo Tolstoy | 486,537 |
+| Les Misérables | Victor Hugo | 783,912 |
 
-    All text files were downloaded from [Project Gutenberg](https://www.gutenberg.org/).
+All text files were downloaded from [Project Gutenberg](https://www.gutenberg.org/).
 
 ## Some Observations
-- Smaller books process surprisingly well
-- Iterative approach (JSON from previous iteration is given as draft within prompt) helps refine results
-- 8K output is the main bottleneck, so even without description and prompt, final JSON does not fit for books with large numbers of characters like Les Misérables
-- Multiple copies of a book in prompt (-cp option) don't help a lot; in some cases, they even make results worse
-
+- Small books (Tom Sawyer and Peter Pan) are processed surprisingly well, with accurate character identification and relationship mapping
+- Iterative approach (using JSON from previous iteration as draft within prompt) helps refine results and improve accuracy
+- 8K token output limit is the main bottleneck, making it challenging to process books with large character counts like Les Misérables, even without physical description (-portrait option). In those cases, after few iterations, LLM will fail to finish JSON reaching max output. However, after few runs and without (-portrait), it is possible to get some result, with relatively good description of character roles but with a lot of links missing.
+- Multiple copies of a book, when possible to fit in the prompt (-cp option), don't help a lot; in some cases with a large number of copies (5-10), they even make results worse
 
 ## Things to Try
 - Test other large context window models

@@ -22,7 +22,7 @@ Modify `jsons.json` to add new books using this format:
 {
   "BOOK TITLE by Author": [
     "prefix",
-    "max_iterations"  // Creates iterations 0 through (max_iterations-1)
+    max_iterations  # Creates iterations 0 through (max_iterations-1)
   ]
 }
 ```
@@ -31,7 +31,7 @@ Modify `jsons.json` to add new books using this format:
 {
   "Pride and Prejudice by Jane Austen": [
     "pride",
-    5  // Expect files pride_0.json, ..., pride_4.json in data/
+    5  # Expect files pride_0.json, ..., pride_4.json in data/
   ]
 }
 ```

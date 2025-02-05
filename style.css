@@ -189,14 +189,21 @@ body {
 
 #close-popup {
     position: absolute;
-    right: 15px;
-    top: 15px;
-    background: none;
+    right: 25px;
+    top: 25px;
+    background: #000000;
     border: none;
     color: #ffffff;
     font-size: 24px;
     cursor: pointer;
     padding: 5px 10px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
 }
 
 /* Portrait orientation indicates mobile device */
@@ -211,7 +218,14 @@ body {
 
     #file-selector,
     #file-selector-iter {
-        left: right;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        top: auto;
+    }
+
+    #file-selector-iter {
+        bottom: 60px;
     }
 
     .popup-content {

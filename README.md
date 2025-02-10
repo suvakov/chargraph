@@ -54,3 +54,7 @@ All text files were downloaded from [Project Gutenberg](https://www.gutenberg.or
 
 ## Disclaimer
 This is not an attempt to determine the best method for extracting characters and relationships from books. A more effective approach would likely involve processing the text in segments and extracting different types of information in separate steps. The goal here is simply to explore the limits of LLMs when given an entire book in a single prompt.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=suvakov/chargraph&type=Date)](https://star-history.com/#suvakov/chargraph&Date)
